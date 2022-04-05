@@ -1,0 +1,79 @@
+---
+title: "Julián Mauricio Cruz Pulido"
+header-includes:
+   - \usepackage{marvosym}
+linkcolor: blue
+output: pdf_document
+---
+
+   
+\Letter: cruz.julian.mauricio@gmail.com, \ComputerMouse: [Cruz Julian](http://cruzjulian.com/)
+
+
+```{r, echo=FALSE}
+library("magrittr")
+library("knitr")
+library("readr")
+library("stringr")
+
+opts_chunk$set(echo = FALSE)
+
+carpeta_contenidos <- "_input"
+
+archivos <- dir(
+      carpeta_contenidos, 
+      pattern = "rmd$"
+      )
+
+file.path(
+    carpeta_contenidos, 
+    archivos
+    ) %>% 
+  extract(-2) %>% 
+  lapply(read_lines) %>% 
+  lapply(extract, -2) %>%
+  lapply(str_replace_all, "[*]", "") %>% 
+  lapply(str_replace_all, "child=\"footer.rmd\"", "") -> childs
+
+
+```
+
+```{r}
+set.seed(123456789)
+
+emo::ji("mail") -> emoji_mail
+
+```
+
+```{r, results="asis"}
+res <- knit(text = childs[[4]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+
+***
+
+# Formación
+
+```{r, results="asis"}
+res <- knit(text = childs[[2]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+# Experiencia laboral
+
+```{r, results="asis"}
+res <- knit(text = childs[[3]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+# Referencias y soportes
+
+Las referencias laborales y personales, como los soportes serán remitidos a solicitud de las partes interesadas.

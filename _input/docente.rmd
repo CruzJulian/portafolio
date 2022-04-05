@@ -1,0 +1,21 @@
+---
+title: "Experiencia docente"
+---
+
+***
+
+**Docente de postgrado y educación continua** Esta labor comprende el construcción e implementación de cursos para distintos programas de posgrado y de educación continua. Diseño y producción de materiales pedagógicos. Diseño y aplicación de herramientas de evaluación en los cursos:
+
+ - _Investigación cuantitativa de mercados_. Maestría en mercadeo. Facultad de administración de empresas. Universidad Externado de Colombia. 2020.
+ - _Analítica de negocios_. Maestría en Gerencia Estratégica de Tecnologías de Información. Facultado de Administración de Empresas. Universidad Externado de Colombia. 2020.
+ - _Elaboración de informes estadísticos_, curso de extensión dirigido a funcionarios de la Veeduría Distrital, Programa de Educación Continua (PEC), Facultad de Ciencias Económicas. Universidad Nacional de Colombia. 2019. 
+ - _Minería de Datos_, curso de extensión dirigido a funcionarios del Banco Agrario, Programa de Educación Continua (PEC), Facultad de Ciencias Económicas. Universidad Nacional de Colombia. 2019. 
+ - _Minería de Datos_ curso de extensión en el marco del [Diplomado en Inteligencia de Mercados](http://www.fce.unal.edu.co/media/files/PEC/cursos/Diplomados_2019/ficha_diplomado_inteligencia_de_mercados.pdf){target="_blank"}, Programa de Educación Continua (PEC), Facultad de Ciencias Económicas. Universidad Nacional de Colombia. 2019. 
+ - _Analítica de datos en mercadeo_, curso de extensión en el marco del [Diplomado en Inteligencia de Mercados](http://www.fce.unal.edu.co/media/files/PEC/cursos/Diplomados_2019/ficha_diplomado_inteligencia_de_mercados.pdf){target="_blank"}, Programa de Educación Continua (PEC), Facultad de Ciencias Económicas Universidad Nacional de Colombia. 2019. 
+ - _Introducción a R_, curso de extensión en el marco del [Diplomado de Procesamiento y Análisis de Datos](http://www.fce.unal.edu.co/media/files/PEC/cursos/cursos_2019/Ficha_procesamiento_y_analisis_de_datos_15012019.pdf){target="_blank"}, Programa de Educación Continua (PEC), Facultad de Ciencias Económicas Universidad Nacional de Colombia 2019.
+
+***
+
+```{r, child="footer.rmd"}
+```
+

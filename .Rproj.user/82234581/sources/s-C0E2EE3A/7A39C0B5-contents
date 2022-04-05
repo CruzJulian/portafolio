@@ -1,0 +1,28 @@
+---
+title: "Perfil"
+---
+
+![](landscape.png)
+
+***
+
+```{r, child="perfil.rmd"}
+```
+
+
+***
+
+
+
+```{r, echo = FALSE, include = FALSE}
+set.seed(123456789)
+
+emo::ji("mail") -> emoji_mail
+
+```
+
+
+
+Contacto: `r emoji_mail`: cruz.julian.mauricio@gmail.com.
+
+

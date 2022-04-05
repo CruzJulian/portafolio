@@ -1,0 +1,104 @@
+---
+title: "Julián Mauricio Cruz Pulido"
+output: 
+  html_document:
+    theme: flatly
+    number_sections: false
+---
+
+
+
+
+
+```{r, echo=FALSE}
+library("magrittr")
+library("knitr")
+library("readr")
+library("stringr")
+
+opts_chunk$set(echo = FALSE)
+
+carpeta_contenidos <- "_input"
+
+archivos <- dir(
+      carpeta_contenidos, 
+      pattern = "rmd$"
+      )
+
+file.path(
+    carpeta_contenidos, 
+    archivos
+    ) %>% 
+  lapply(read_lines) %>% 
+  lapply(str_replace_all, "# ", "## ") -> childs
+
+
+
+```
+
+
+```{r}
+set.seed(123456789)
+
+emo::ji("mail") -> emoji_mail
+
+```
+
+
+```{r, results="asis"}
+res <- knit(text = childs[[4]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+Contacto `r emoji_mail`: cruz.julian.mauricio@gmail.com
+
+
+
+
+
+# {.tabset .tabset-pills}
+
+## Formación
+
+```{r, results="asis"}
+res <- knit(text = childs[[2]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+
+## Experiencia laboral
+
+```{r, results="asis"}
+res <- knit(text = childs[[3]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+
+## Consultorías y proyectos
+
+```{r, results="asis"}
+res <- knit(text = childs[[5]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+
+## Experiencia docente
+
+```{r, results="asis"}
+res <- knit(text = childs[[1]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+
+## Asesoría a trabajos de grado
+
+```{r, results="asis"}
+res <- knit(text = childs[[7]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```

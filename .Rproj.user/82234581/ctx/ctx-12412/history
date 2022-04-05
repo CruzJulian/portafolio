@@ -1,0 +1,76 @@
+library("rmarkdown")
+render_site()
+? render_site
+clean_site()
+render_site()
+render("_short.rmd")
+library("knitr")
+? knit
+knit("_short.rmd")
+render("_short.rmd")
+library("rmarkdown")
+render("_short.rmd", output_dir = "_other", output_format = "pdf")
+? render
+render("_short.rmd", output_dir = "_other", output_format = "pdf_document")
+options(knitr.duplicate.label = "allow")
+render("_short.rmd", output_dir = "_other", output_format = "pdf_document")
+library("magrittr")
+library("knitr")
+library("readr")
+library("stringr")
+opts_chunk$set(echo = FALSE)
+carpeta_contenidos <- "."
+file.path(
+carpeta_contenidos,
+dir(
+carpeta_contenidos,
+pattern = "rmd"
+)
+) %>%
+lapply(read_lines) %>%
+lapply(str_replace_all, "[*]", "") -> childs
+childs
+dir()
+archivos <- dir(
+carpeta_contenidos,
+pattern = "rmd"
+)
+archivos
+archivos <- dir(
+carpeta_contenidos,
+pattern = "md"
+)
+archivos
+archivos <- dir(
+carpeta_contenidos,
+pattern = "md$"
+)
+archivos
+archivos_si <- dir(
+carpeta_contenidos,
+pattern = "md$"
+)
+archivos_no <- dir(
+carpeta_contenidos,
+pattern = "^_"
+)
+archivos_no
+archivos <- setdiff(archivos_si, archivos_no)
+archivos
+render("_short.rmd", output_dir = "_other", output_format = "pdf_document")
+carpeta_contenidos <- "_input"
+archivos_si <- dir(
+carpeta_contenidos,
+pattern = "rmd$"
+)
+archivos_no <- dir(
+carpeta_contenidos,
+pattern = "^_"
+)
+archivos <- setdiff(archivos_si, archivos_no)
+archivos
+archivos_no
+render_site(input = "input")
+render_site(input = "_input")
+clean_site()
+render_site(input = "_input")

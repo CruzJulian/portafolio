@@ -1,0 +1,28 @@
+{
+    "id": "CF7CD5F6",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1614544213879.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "id": "a0ea48464ece45db981c5b32a899ea5c",
+        "name": "childs",
+        "title": "childs",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Sourcem2jf8qmgi6eb"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1125899906842624,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1614544213879,
+    "read_only": false,
+    "read_only_alternatives": []
+}
