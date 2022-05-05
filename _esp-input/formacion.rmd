@@ -1,0 +1,60 @@
+---
+title: "Formación"
+---
+
+***
+
+## Educación superior 
+
+- M.Sc. Estadística, Tesis de grado: [Aplicación de Algoritmos de Agrupamiento a Funciones de Distribución Empírica](https://repositorio.unal.edu.co/handle/unal/64015){target="_blank"}. Universidad Nacional de Colombia. Grado en septiembre de 2018.
+
+- Estadística, Tesis de grado: Estimación Heurística de Medidas de Probabilidad Mediante Mixturas. Universidad Nacional de Colombia. Grado en mayo de 2015.
+
+***
+
+## Manejo de software
+
+ - Experto: R
+ 
+ - Avanzado: Microsoft Office (Word, Excel, Power Point); Inkscape.
+ 
+ - Básico: SQL, Python, HTML5, CSS3, PHP, LaTeX, Java, C++, Blender, Linux, Bash, Docker.
+
+## Manejo de idiomas
+
+ - Inglés: B1 (Examen de Estado de Calidad de la Educación Superior, Saber Pro 2013)
+
+***
+
+## Publicaciones
+
+ - [Diferencia de logro geolocalizado en educación presencial y a distancia en Colombia](https://redie.uabc.mx/redie/article/view/3711){target="_blank"}, con Nicolás Arias y William Ricón. Revista Electrónica de Investigación educativa REDIE. 2021.
+- [Temas de investigación sobre competencias de profesores en iniciativas de actores externos en escuelas colombianas de educación básica y media](https://journal.poligran.edu.co/index.php/poliantea/article/view/2337/2209){target="_blank"}, con Nicolás Arias. Poliantea. 2021.
+- [The market segmentation of higher education in Colombia reveals social inequalities](https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2021.1877885?needAccess=true){target="_blank"}, with Frederick Mendoza. Cogent Education. 2021.
+- [Interpreting the model is for humans, not for computers](https://towardsdatascience.com/interpreting-the-model-is-for-humans-not-for-computers-9a857011ff3){target="_blank"}, with Valeria Fonseca Díaz. Towards Datascience. 2020.
+- [Estado de las prácticas empresariales contra el soborno: primer estudio latinoamericano](https://www.pactoglobal-colombia.org/images/PDFs/LIBRO_Estudio_Antisoborno_2019.pdf){target="_blank"}, con Gustavo Yepes y otros. ISBN:  978-958-56842-3-2. Icontec Internacional. 2019.
+- [Chapter 16: International CSR Policies in the Mining Sector and Their Implementation in Colombia.](https://store.lexisnexis.ca/en/categories/shop-by-jurisdiction/federal-13/extractive-industries-and-human-rights-in-an-era-of-global-justice-new-ways-of-resolving-and-preventing-conflicts--skusku-cad-6722/details){target="_blank"}, con Gustavo Yepes, Luis Bustos y Ana Devia. LexisNexis Canada. 2019.
+- [Women and Men's Performace in Face-to-face, Virtual and Distance Higher Education in Colombia](https://journal.poligran.edu.co/index.php/panorama/article/download/1142/1039){target="_blank"}, con Nicolás Arias y William Ricón. Revista Panorama, 12(22), 58-69. DOI: [http://dx.doi.org/10.15765/pnrm.v12i22.1142](http://dx.doi.org/10.15765/pnrm.v12i22.1142){target="_blank"}. 2018.
+- [Corrupción en Colombia: El soborno corporativo como institución](https://publicaciones.uexternado.edu.co/corrupcion-en-colombia-tomo-3-corrupcion-privada-politica-colombiana.html){target="_blank"}, con Gustavo Yepes. ISBN 978-958-772-880-4. Universidad Externado de Colombia. 2018.
+ - [Factores asociados al logro educativo en estudiantes de Ciencias Económicas en modalidad presencial y a distancia en Colombia](http://hemeroteca.unad.edu.co/index.php/memorias/article/view/2890){target="_blank"}, con Nicolás Arias y William Rincón. III Congreso Mundial de Educación Superior a Distancia. 2017.
+- [Estado de la Responsabilidad Social Empresarial en Colombia](http://administracion.uexternado.edu.co/PRME/memorias/Entorno%20de%20los%20Negocios%20N%2020.pdf){target="_blank"}, con Gustavo Yepes y otros. Avances de Entorno de los Negocios. N° 20, ISSN 1794 – 791X. Universidad Externado de Colombia. 2015.
+
+***
+
+## Proyectos de aprendizaje y reconocimientos
+
+ - III Congreso Internacional "Estudios en Organizaciones Públicas, Privadas y Sociales en América Latina y El Caribe". Ponencia titulada: _Logro Educativo y Evidencias de sus posibles Factores Asociados en Estudiantes de Ciencias Económicas en Modalidadd Presencial y Virtual_, con Nicolás Arias y William Rincón.
+ - Paquete de R: _[Saber](https://github.com/nebulae-co/saber){target="_blank"}_, con Daniel Moreno y Adriana Clavijo: 
+ - Paquete de R: _[Colmaps](https://github.com/nebulae-co/colmaps){target="_blank"}_, con Daniel Moreno y Adriana Clavijo. 
+ - 25 Simposio Internacional de Estadística 2015. Ponencia titulada: _[Un micro-mapa de Colombia](http://nebulae-co.github.io/colmaps/micromapa){target="_blank"}_, con Daniel Moreno y Adriana Clavijo.
+ - 24 Simposio Internacional de Estadística 2014. Ponencia titulada: _Uso De Metaheurísticas en Estimación Nadaraya-Watson con Aplicación a Cirugía Refractiva_.
+ - 24 Simposio Internacional de Estadística 2014. Ponencia titulada: _Algoritmos de Agrupación en Diseño de Experimentos. Una Propuesta No Paramétrica_.
+ - Mejor puntaje de su carrera a nivel nacional en el examen Saber Pro en su promoción, 2013.
+ - Beca completa Universidad Nacional de Colombia por mejor puntaje de ingreso, 2009.
+ - Mejor puntaje en el examen del ICFES en su promoción y Mención Honorífica por desarrollo artístico, 2002.
+ 
+***
+
+```{r, child="footer.rmd"}
+```
+
