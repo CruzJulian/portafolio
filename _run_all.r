@@ -3,9 +3,13 @@ library("rmarkdown")
 
 # options(knitr.duplicate.label = "allow")
 
-clean_site(input = "_input")
+clean_site(input = "_esp-input")
 
-render_site(input = "_input")
+render_site(input = "_esp-input")
+
+clean_site(input = "_eng-input")
+
+render_site(input = "_eng-input")
 
 render(
   "_short.rmd", 
