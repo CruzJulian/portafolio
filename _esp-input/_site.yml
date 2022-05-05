@@ -1,5 +1,5 @@
 name: "Julián Mauricio Cruz"
-output_dir: ../_esp-site
+output_dir: ../docs/_esp-site
 navbar:
   title: "<img src=\"logo.png\" style=\"height: 60px;\"/>"
   right:
