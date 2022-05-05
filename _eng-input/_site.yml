@@ -1,33 +1,33 @@
 name: "Julián Mauricio Cruz"
-output_dir: ../docs/_eng-site
+output_dir: ../eng-docs
 navbar:
   title: "<img src=\"logo.png\" alt=\"CruzJulian\" style=\"height: 60px;\"/>"
   right:
     - text: "Background"
       icon: fa-graduation-cap
-      href: formacion.html
+      href: background.html
     - text: "Experiences"
       icon: fa-id-badge
       menu:
         - text: "Working"
           icon: fa-briefcase
-          href: laboral.html
+          href: working.html
         - text: "Teaching"
           icon: fa-user-graduate
-          href: docente.html
+          href: teaching.html
     - text: "Portfolio"
       icon: fa-cubes
       menu:
         - text: "Consulting"
           icon: fa-chart-bar
-          href: proyectos.html
+          href: consulting.html
         - text: "Research"
           icon: fa-book
-          href: tesis.html
+          href: research.html
     - text: "Esp"
       icon: fa-language
-      href: ../_esp-site/index.html
-output:  
+      href: index.html
+output: 
   html_document:
     self_contained: no  
     css: style.css

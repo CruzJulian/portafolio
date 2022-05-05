@@ -8,8 +8,6 @@ fa(name = "twitter", fill = "#444444") -> emoji_tw
 fa(name = "envelope", fill = "#444444") -> emoji_mail
 fa(name = "linkedin", fill = "#444444") -> emoji_ln
 
-
-
 ```
 
 
