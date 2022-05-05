@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Research</title>
+
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link rel="shortcut icon" href="favicon.png" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><img src="logo.png" alt="CruzJulian" style="height: 60px;"/></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="background.html">
+    <span class="fa fa-graduation-cap"></span>
+     
+    Background
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    <span class="fa fa-id-badge"></span>
+     
+    Experiences
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="working.html">
+        <span class="fa fa-briefcase"></span>
+         
+        Working
+      </a>
+    </li>
+    <li>
+      <a href="teaching.html">
+        <span class="fa fa-user-graduate"></span>
+         
+        Teaching
+      </a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    <span class="fa fa-cubes"></span>
+     
+    Portfolio
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="consulting.html">
+        <span class="fa fa-chart-bar"></span>
+         
+        Consulting
+      </a>
+    </li>
+    <li>
+      <a href="research.html">
+        <span class="fa fa-book"></span>
+         
+        Research
+      </a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="index.html">
+    <span class="fa fa-language"></span>
+     
+    Esp
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Research</h1>
+
+</div>
+
+
+<hr />
+<p>Since 2011, continuous and independent research statistical consultancy work has been carried out that does not stop at any time. The objective of this exercise is to face problems from different areas and provide answers from data analysis to research questions of various kinds.</p>
+<hr />
+<div id="influence-of-the-technological-level-on-the-productivity-and-competitiveness-of-beekeepers-in-cundinamarca" class="section level3">
+<h3><a href="https://repositorio.unal.edu.co/handle/unal/81283" target="_blank">Influence of the technological level on the productivity and competitiveness of beekeepers in Cundinamarca</a></h3>
+<p>Rodrigo Chaves Ladino : <a href="mailto:rochavesl@unal.edu.co" class="email">rochavesl@unal.edu.co</a></p>
+<p>Degree thesis to qualify for the Master’s degree in Management and rural development. Faculty of Agricultural Sciences. National university of Colombia. 2022.</p>
+<hr />
+</div>
+<div id="estimated-net-direct-medical-costs-of-breast-cancer-care-in-the-general-health-social-security-system-in-colombia" class="section level3">
+<h3>Estimated net direct medical costs of breast cancer care in the general health social security system in Colombia</h3>
+<p>José Ricardo Urrego Novoa : <a href="mailto:jrurregon@unal.edu.co" class="email">jrurregon@unal.edu.co</a></p>
+<p>Degree thesis to qualify for the title of PhD. in Pharmaceutical Sciences. National university of Colombia. Columbia, 2020.</p>
+<hr />
+</div>
+<div id="articulation-of-secondary-education-with-higher-education-in-bogotá-colombia-pedagogical-implications-in-the-local-context" class="section level3">
+<h3>Articulation of secondary education with higher education in Bogotá Colombia: pedagogical implications in the local context</h3>
+<p>Elias Rivero Botello. : <a href="mailto:elriver13@hotmail.com" class="email">elriver13@hotmail.com</a></p>
+<p>Degree thesis to qualify for the title of PhD. in education. National University of Distance Education. 2019.</p>
+<hr />
+</div>
+<div id="risk-sexual-behaviors-in-university-students-social-representations-and-sexual-satisfaction" class="section level3">
+<h3><a href="https://repositorio.unal.edu.co/handle/unal/76716" target="_blank">Risk sexual behaviors in university students: social representations and sexual satisfaction</a></h3>
+<p>Heidi Marcela Castro Hernandez. : <a href="mailto:hmcastroh@unal.edu.co" class="email">hmcastroh@unal.edu.co</a></p>
+<p>Degree thesis for Master’s in Clinical Psychology. National university of Colombia. 2019.</p>
+<hr />
+</div>
+<div id="cost-effectiveness-of-aggressive-treatment-of-early-rheumatoid-arthritis-with-conventional-disease-modifying-drugs-compared-with-tumor-necrosis-factor-alpha-inhibitors-in-a-cohort-of-colombian-patients" class="section level3">
+<h3><a href="https://repositorio.unal.edu.co%20/handle/unal/63676" target="_blank">Cost-effectiveness of aggressive treatment of early rheumatoid arthritis with conventional disease-modifying drugs compared with tumor necrosis factor alpha inhibitors in a cohort of Colombian patients</a></h3>
+<p>Jorge Augusto Diaz. : <a href="mailto:jadiazr@unal.edu.co" class="email">jadiazr@unal.edu.co</a></p>
+<p>Degree thesis to qualify for the title of PhD. in Pharmaceutical Sciences. National university of Colombia. 2017.</p>
+<hr />
+</div>
+<div id="evaluation-of-the-performance-factor-of-judges-in-colombia" class="section level3">
+<h3><a href="https://repository.unilibre.edu.co/handle/10901/11431" target="_blank">Evaluation of the performance factor of judges in Colombia</a></h3>
+<p>Omar Edgar Borja Soto. : <a href="mailto:oborjas2502@gmail.com" class="email">oborjas2502@gmail.com</a></p>
+<p>Master’s degree thesis in Administrative Law, Universidad Libre de Colombia. 2016.</p>
+<hr />
+</div>
+<div id="relationship-between-the-higher-education-academic-program-studied-by-young-people-from-bogotá-between-18-and-24-years-old-and-their-attitude-towards-saving-indebtedness-and-money" class="section level3">
+<h3>Relationship between the higher education academic program studied by young people from Bogotá between 18 and 24 years old and their attitude towards saving, indebtedness and money</h3>
+<p>Helenora Sanchez Castillo. : <a href="mailto:heleonora.sanchezc@konradlorenz.edu.co" class="email">heleonora.sanchezc@konradlorenz.edu.co</a></p>
+<p>Degree work to opt for a Master’s degree in Consumer Psychology. Konrad Lorenz University Foundation. 2016.</p>
+<hr />
+</div>
+<div id="impact-of-training-on-the-performance-and-perception-of-quality-of-work-life-of-the-administrative-career-and-free-appointment-and-removal-of-the-ministry-of-national-education" class="section level3">
+<h3>Impact of training on the performance and perception of quality of work life of the Administrative Career and Free Appointment and Removal of the Ministry of National Education</h3>
+<p>Lesly Andrea Prieto Huérfano and Diana Carolina Hernández Gualdrón. : <a href="mailto:dc.arte81@gmail.com" class="email">dc.arte81@gmail.com</a></p>
+<p>Degree work to opt for a Master’s degree in Corporate Social Management, Universidad Externado de Colombia. 2015.</p>
+<hr />
+</div>
+<div id="model-of-socio-technological-cycles-for-socially-and-environmentally-responsible-products.-case-intensive-cutting-of-roses-with-human-energy" class="section level3">
+<h3>Model of socio-technological cycles for socially and environmentally responsible products. Case: Intensive cutting of roses with human energy</h3>
+<p>Gabriel Garcia Acosta. : <a href="mailto:ggarciaa@unal.edu.co" class="email">ggarciaa@unal.edu.co</a></p>
+<p>Degree work to opt for the title of Doctor in Technological Innovation Projects in Product and Process Engineering, Universidat Politècnica de Catalunya. 2015.</p>
+<hr />
+</div>
+<div id="corporate-social-responsibility-in-colombia-characterization-of-csr-practices-against-the-theory-of-social-costs-and-their-relationship-with-the-business" class="section level3">
+<h3>Corporate Social Responsibility in Colombia: Characterization of CSR Practices against the Theory of Social Costs and their Relationship with the Business</h3>
+<p>Gustavo Yepez. : <a href="mailto:gyepesl@gmail.com" class="email">gyepesl@gmail.com</a></p>
+<p>Degree work to opt for the title of Doctor of Business Sciences, Antonio de Nebrija University. 2015.</p>
+<hr />
+</div>
+<div id="evaluation-of-the-effects-of-fcs-304-in-rodent-models-of-depression" class="section level3">
+<h3><a href="https://repositorio.unal.edu.co/handle/unal/54369" target="_blank">Evaluation of the effects of FCS-304 in rodent models of depression</a></h3>
+<p>Laura Mercedes Moreno Hernandez. : <a href="mailto:lmmorenoh@unal.edu.co" class="email">lmmorenoh@unal.edu.co</a></p>
+<p>Degree work to opt for the M.Sc. in Pharmacology, National University of Colombia. 2015</p>
+<hr />
+</div>
+<div id="integration-of-occupational-health-and-safety-management-in-social-responsibility" class="section level3">
+<h3>Integration of occupational health and safety management in social responsibility</h3>
+<p>Case study in five Bogota companies.</p>
+<p>Carolina Hernandez Macias. : <a href="mailto:ing_carolinahernandezm@yahoo.com" class="email">ing_carolinahernandezm@yahoo.com</a></p>
+<p>Degree work to opt for the title of Master in Health and Safety at Work, National University of Colombia. 2015.</p>
+<hr />
+</div>
+<div id="a-mathematical-description-of-the-evolutionary-turnover-of-trnas-in-the-genus-drosophila" class="section level3">
+<h3>A mathematical description of the evolutionary turnover of tRNAs in the genus Drosophila</h3>
+<p>Liliana Constance Romero.</p>
+<p>Degree work to opt for the title of Master of Science - Applied Mathematics, National University of Colombia. 2014.</p>
+<hr />
+</div>
+<div id="refraction-in-infants-aged-6-to-12-months-using-the-non-cyclopegic-and-cyclopegic-technique-with-tropicamide-1-cyclopentolate-1-study-conducted-in-bogota-2012-2014" class="section level3">
+<h3>Refraction in infants aged 6 to 12 months using the non-cyclopegic and cyclopegic technique with tropicamide 1% cyclopentolate 1%, study conducted in Bogota 2012-2014</h3>
+<p>Natalie Gutierrez. : <a href="mailto:natamu89@hotmail.com" class="email">natamu89@hotmail.com</a></p>
+<p>Degree work to opt for the title of Magister in Vision Sciences, Universidad de La Salle. 2014.</p>
+<hr />
+</div>
+<div id="impact-of-the-palm-heart-harvest-on-the-population-structure-and-dynamics-of-euterpe-oleracea-in-the-colombian-pacific-coast" class="section level3">
+<h3><a href="http://library.wur.nl/WebQuery/wurpubs/490413" target="_blank">Impact of the palm heart harvest on the population structure and dynamics of Euterpe oleracea in the Colombian Pacific Coast</a></h3>
+<p>Martha Isabel Vallejo. : <a href="mailto:mivallejoj@unal.edu.co" class="email">mivallejoj@unal.edu.co</a></p>
+<p>Degree work to opt for the title of PhD in Sciences - Biology, National University of Colombia. 2013.</p>
+<hr />
+</div>
+<div id="accelerometric-findings-before-during-and-after-ethanol-exposure-in-patients-with-essential-tremor" class="section level3">
+<h3>Accelerometric findings before, during and after ethanol exposure in patients with essential tremor</h3>
+<p>Lorraine Arroyo. : <a href="mailto:lunawitch8@hotmail.com" class="email">lunawitch8@hotmail.com</a></p>
+<p>Degree work to opt for the title of Master in Neurosciences, National University of Colombia. Meritorious thesis. 2013.</p>
+<hr />
+</div>
+<div id="changes-in-symptoms-tear-film-and-ocular-surface-after-treatment-with-cyclosporine-1-and-carboxymethylcellulose-0.5-in-moderate-and-severe-dry-eye-syndrome" class="section level3">
+<h3>Changes in symptoms, tear film and ocular surface after treatment with cyclosporine 1% and carboxymethylcellulose 0.5%, in moderate and severe dry eye syndrome</h3>
+<p>Alejandra Mendivelso Suarez. : <a href="mailto:alejaam10@hotmail.com" class="email">alejaam10@hotmail.com</a></p>
+<p>Degree work to opt for the title of Magister in Vision Sciences, Universidad de La Salle. 2013.</p>
+<hr />
+</div>
+<div id="relationship-between-intimate-partner-violence-against-women-and-the-appearance-of-postpartum-depression" class="section level3">
+<h3><a href="https://repositorio.unal.edu.co/handle/unal/11473" target="_blank">Relationship between intimate partner violence against women and the appearance of postpartum depression</a></h3>
+<p>Edna Janneth Ramírez Bonilla. : <a href="mailto:nursedna@hotmail.com" class="email">nursedna@hotmail.com</a></p>
+<p>Thesis presented as a requirement to qualify for the Master’s degree in Nursing. National university of Colombia. 2012.</p>
+<hr />
+</div>
+<div id="urinary-tract-infection-cost-disease-study-and-demographic-characterization-in-a-third-level-clinic-in-chía-colombia" class="section level3">
+<h3>Urinary tract infection: cost-disease study and demographic characterization in a third level clinic in Chía, Colombia</h3>
+<p>Hernando Andres Olaya MD. Mauricio Hernandez Quintana MD. : <a href="mailto:maoherqui@hotmail.com" class="email">maoherqui@hotmail.com</a></p>
+<p>Master’s Thesis in Pharmacology presented at the Universidad de la Sabana. 2011.</p>
+<hr />
+</div>
+<div id="evaluation-of-corneal-and-ocular-aberrations-by-means-of-the-high-order-rms-index-with-two-aspherical-soft-contact-lenses-in-patients-with-low-myopic-astigmatism" class="section level3">
+<h3><a href="https://docplayer.es/docview/70/63889504/#file=%20/storage/70/63889504/63889504.pdf" target="_blank">Evaluation of corneal and ocular aberrations by means of the high-order RMS index with two aspherical soft contact lenses in patients with low myopic astigmatism</a></h3>
+<p>Elizabeth Suarez Piscotti. Natalie Rodriguez. : <a href="mailto:natamu89@hotmail.com" class="email">natamu89@hotmail.com</a></p>
+<p>Undergraduate thesis in Optometry presented at the Universidad de la Salle. 2011.</p>
+<hr />
+<blockquote>
+<p><a href="mailto:%20cruz.julian.mauricio@gmail.com"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#444444;overflow:visible;position:relative;"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"/></svg></a> <a href="https://twitter.com/Cruz_Julian_" target="_blank"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#444444;overflow:visible;position:relative;"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg></a> <a href="https://www.linkedin.com/in/cruzjulian/" target="_blank"><svg aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#444444;overflow:visible;position:relative;"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg></a></p>
+</blockquote>
+<div id="powered-by-using-rstudio-technologies" class="section level4">
+<h4>Powered by <a href="index.html"><img src="logo.png" style="height:20px" /></a> using RStudio technologies</h4>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
