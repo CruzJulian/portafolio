@@ -1,0 +1,16 @@
+
+![](portada.png){.portada}
+
+***
+
+```{r, child="perfil.rmd"}
+```
+
+
+***
+
+```{r, child="footer.rmd"}
+```
+
+
+

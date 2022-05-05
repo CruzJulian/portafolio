@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+---
+
+***
+
+**Postgraduate professor and Lifelong learning** This work enhances the complete deploying of courses in postgaduate and lifelong programs. This is design, build and teach of these courses, including pedagogical materials and evaluation tools.
+
+ - _Investigación cuantitativa de mercados._ Course of the Marketing Master Program of the Business School of University Externado of Colombia. 2020.
+ - _Analítica de negocios._ Course of the Strategic Managing of Technologies Master Program of the Business School of University Externado of Colombia. 2020.
+ - _Elaboración de informes estadísticos._ Course aimed at officials of the District Oversight Office. Lifelong Learning Program, Faculty of Economic Sciences. National university of Colombia. 2019.
+ - _Minería de Datos._ Course aimed at officials of the Agrarian Bank. Lifelong Learning Program, Faculty of Economic Sciences. National university of Colombia. 2019.
+ - _Minería de Datos._ Course taught as part of the lifelong learning program [Diplomado en Inteligencia de Mercados](http://www.fce.unal.edu.co/media/files/PEC/cursos/Diplomados_2019/ficha_diplomado_inteligencia_de_mercados.pdf){target="_blank"}. Lifelong Learning Program, Faculty of Economic Sciences. National university of Colombia. 2019.
+ - _Analítica de datos en mercadeo._ Course taught as part of the lifelong learning program [Diplomado en Inteligencia de Mercados](http://www.fce.unal.edu.co/media/files/PEC/cursos/Diplomados_2019/ficha_diplomado_inteligencia_de_mercados.pdf){target="_blank"}. Lifelong Learning Program, Faculty of Economic Sciences. National university of Colombia. 2019.
+ - _Introducción a R._ Course taught as part of the lifelong learning program [Diplomado de Procesamiento y Análisis de Datos](http://www.fce.unal.edu.co/media/files/PEC/cursos/cursos_2019/Ficha_procesamiento_y_analisis_de_datos_15012019.pdf){target="_blank"}. Lifelong Learning Program, Faculty of Economic Sciences. National university of Colombia. 2019.
+ 
+***
+
+```{r, child="footer.rmd"}
+```
+
