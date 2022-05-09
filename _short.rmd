@@ -7,7 +7,7 @@ output: pdf_document
 ---
 
    
-\Letter: cruz.julian.mauricio@gmail.com, \ComputerMouse: [Cruz Julian](http://cruzjulian.com/)
+\Letter: cruz.julian.mauricio@gmail.com, \ComputerMouse: [Cruz Julian](https://cruzjulian.github.io/portafolio)
 
 
 ```{r, echo=FALSE}
