@@ -18,7 +18,7 @@ library("stringr")
 
 opts_chunk$set(echo = FALSE)
 
-carpeta_contenidos <- "_input"
+carpeta_contenidos <- "_eng-input"
 
 archivos <- dir(
       carpeta_contenidos, 
@@ -29,7 +29,7 @@ file.path(
     carpeta_contenidos, 
     archivos
     ) %>% 
-  extract(-2) %>% 
+  extract(-3) %>% 
   lapply(read_lines) %>% 
   lapply(extract, -2) %>%
   lapply(str_replace_all, "[*]", "") %>% 
@@ -50,44 +50,15 @@ emo::ji("mail") -> emoji_mail
 
 
 ```{r, results="asis"}
-res <- knit(text = childs[[4]], quiet = TRUE)
-cat(res, sep = '\n')
-
-```
-
-
-***
-
-# Formación
-
-```{r, results="asis"}
-res <- knit(text = childs[[2]], quiet = TRUE)
-cat(res, sep = '\n')
-
-```
-
-***
-
-# Experiencia laboral
-
-```{r, results="asis"}
 res <- knit(text = childs[[3]], quiet = TRUE)
 cat(res, sep = '\n')
 
 ```
 
-***
-# Consultorías y proyectos
-
-```{r, results="asis"}
-res <- knit(text = childs[[5]], quiet = TRUE)
-cat(res, sep = '\n')
-
-```
 
 ***
 
-# Experiencia docente
+# Background
 
 ```{r, results="asis"}
 res <- knit(text = childs[[1]], quiet = TRUE)
@@ -97,17 +68,46 @@ cat(res, sep = '\n')
 
 ***
 
-# Referencias y soportes
-
-Las referencias laborales y personales, como los soportes serán remitidos a solicitud de las partes interesadas.
-
-
-\newpage
-
-# Anexo: Asesoría a trabajos de grado
+# Working
 
 ```{r, results="asis"}
 res <- knit(text = childs[[7]], quiet = TRUE)
 cat(res, sep = '\n')
 
 ```
+
+***
+
+# Consulting
+
+```{r, results="asis"}
+res <- knit(text = childs[[2]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+# Teaching
+
+```{r, results="asis"}
+res <- knit(text = childs[[6]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+# Research
+
+```{r, results="asis"}
+res <- knit(text = childs[[5]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+# Refetences
+
+References will be sent under request.

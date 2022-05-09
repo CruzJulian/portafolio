@@ -18,7 +18,7 @@ library("stringr")
 
 opts_chunk$set(echo = FALSE)
 
-carpeta_contenidos <- "_eng-input"
+carpeta_contenidos <- "_esp-input"
 
 archivos <- dir(
       carpeta_contenidos, 
@@ -29,7 +29,7 @@ file.path(
     carpeta_contenidos, 
     archivos
     ) %>% 
-  extract(-3) %>% 
+  extract(-2) %>% 
   lapply(read_lines) %>% 
   lapply(extract, -2) %>%
   lapply(str_replace_all, "[*]", "") %>% 
@@ -46,35 +46,34 @@ emo::ji("mail") -> emoji_mail
 ```
 
 ```{r, results="asis"}
+res <- knit(text = childs[[4]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+
+***
+
+# Formación
+
+```{r, results="asis"}
+res <- knit(text = childs[[2]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+# Experiencia laboral
+
+```{r, results="asis"}
 res <- knit(text = childs[[3]], quiet = TRUE)
 cat(res, sep = '\n')
 
 ```
 
-
 ***
 
-# Background
+# Referencias y soportes
 
-```{r, results="asis"}
-res <- knit(text = childs[[1]], quiet = TRUE)
-cat(res, sep = '\n')
-
-```
-
-***
-
-# Working
-
-```{r, results="asis"}
-res <- knit(text = childs[[7]], quiet = TRUE)
-cat(res, sep = '\n')
-
-```
-
-***
-
-# Refetences
-
-References will be sent under request.
-
+Las referencias laborales y personales, como los soportes serán remitidos a solicitud de las partes interesadas.

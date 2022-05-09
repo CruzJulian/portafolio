@@ -2,8 +2,8 @@
 title: "Julián Mauricio Cruz Pulido"
 header-includes:
    - \usepackage{marvosym}
-linkcolor: blue
 output: pdf_document
+linkcolor: blue
 ---
 
    
@@ -18,7 +18,7 @@ library("stringr")
 
 opts_chunk$set(echo = FALSE)
 
-carpeta_contenidos <- "_eng-input"
+carpeta_contenidos <- "_esp-input"
 
 archivos <- dir(
       carpeta_contenidos, 
@@ -29,14 +29,17 @@ file.path(
     carpeta_contenidos, 
     archivos
     ) %>% 
-  extract(-3) %>% 
+  extract(-2) %>% 
   lapply(read_lines) %>% 
   lapply(extract, -2) %>%
   lapply(str_replace_all, "[*]", "") %>% 
   lapply(str_replace_all, "child=\"footer.rmd\"", "") -> childs
 
 
+
+
 ```
+
 
 ```{r}
 set.seed(123456789)
@@ -45,8 +48,9 @@ emo::ji("mail") -> emoji_mail
 
 ```
 
+
 ```{r, results="asis"}
-res <- knit(text = childs[[3]], quiet = TRUE)
+res <- knit(text = childs[[4]], quiet = TRUE)
 cat(res, sep = '\n')
 
 ```
@@ -54,7 +58,36 @@ cat(res, sep = '\n')
 
 ***
 
-# Background
+# Formación
+
+```{r, results="asis"}
+res <- knit(text = childs[[2]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+# Experiencia laboral
+
+```{r, results="asis"}
+res <- knit(text = childs[[3]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+# Consultorías y proyectos
+
+```{r, results="asis"}
+res <- knit(text = childs[[5]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+# Experiencia docente
 
 ```{r, results="asis"}
 res <- knit(text = childs[[1]], quiet = TRUE)
@@ -64,17 +97,17 @@ cat(res, sep = '\n')
 
 ***
 
-# Working
+# Referencias y soportes
+
+Las referencias laborales y personales, como los soportes serán remitidos a solicitud de las partes interesadas.
+
+
+\newpage
+
+# Anexo: Asesoría a trabajos de grado
 
 ```{r, results="asis"}
 res <- knit(text = childs[[7]], quiet = TRUE)
 cat(res, sep = '\n')
 
 ```
-
-***
-
-# Refetences
-
-References will be sent under request.
-
