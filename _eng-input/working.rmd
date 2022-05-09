@@ -1,19 +1,19 @@
 ---
-title: "Working"
+title: "Work Experience"
 ---
 
 ***
 
-## University Externado of Colombia
+## Universidad Externado de Colombia
 
-**Statistical consultancy in research** Methodological design, data collection, estimation of parameters, sample sizes, form design, survey development, web platform development, sample design and quantitative analysis, among others, for the studies:
+**Statistical consultancy in research.** Methodological design, data collection, estimation of parameters, sample sizes, form design, survey development, web platform development, sample design and quantitative analysis, among others, for the studies:
 
  - Index of Institutionalization of Bribery in Latin America and the Caribbean. Published in the book [State of business practices against bribery: first Latin American study](https://www.pactoglobal-colombia.org/images/PDFs/LIBRO_Estudio_Antisoborno_2019.pdf){target="_blank"}.
  - National Transparency Study 2018. Report published by Transparency for Colombia.
  - Corporate Bribery as an Institution. Published in the book [Corruption in Colombia](https://publicaciones.uexternado.edu.co/corrupcion-en-colombia-tomo-3-corrupcion-privada-politica-colombiana.html){target="_blank"}.
  - National Transparency Study 2016. Report published by Transparency for Colombia.
 
-Additionally brief interventions and collaborations for some master's theses and research articles.
+Additionally, brief interventions and collaborations for some Master's theses and research articles.
  
  - Role: Professor
  - Immediate boss: [Gustavo Yepes](https://www.linkedin.com/in/gustavoyepes-lopez-82049713/){target="_blank"}
@@ -25,7 +25,7 @@ Additionally brief interventions and collaborations for some master's theses and
 
 ## Colombian Ministry of Information Technology and Communications
 
-**Management of the Data Science team.** Start-up of the analytics procedure. Proposal, execution, evaluation and feedback of Data Science projects for the analysis of the information contained in the information systems that incorporate the use of analytical tools for large volumes of information (Big Data), in compliance with everything related with the legal, contractual and regulatory obligations of the companies providing mobile, non-mobile, television, sound broadcasting and postal services.
+**Management of the Data Science team.** Start-up of the analytics procedure. Proposal, execution, evaluation and feedback of Data Science projects for the analysis of the information contained in the information systems that incorporate the use of analytical tools for large volumes of information (Big Data), in compliance with all the related with legal, contractual and regulatory obligations of the companies that provide mobile, non-mobile, television, sound broadcasting and postal services.
 
  - Role: Head of Data Science
  - Immediate boss: Nicolás Almeyda
@@ -36,7 +36,7 @@ Additionally brief interventions and collaborations for some master's theses and
 
 ## Colmena Occupational Risk Insurer
 
-**Statistical advice on occupational health and safety for Sanitas Internacional.** Implementation of information systems, database design, data collection and analysis of occupational medical cases and measurement of occupational health impact indicators. Advice to 3 Epidemiological Surveillance Systems: Psychosocial, Ergonomic and Biological Risk and implementation of algorithms to identify frequent absenteeism.
+**Statistical advice on occupational health and safety for Sanitas Internacional.** Implementation of information systems, database design, data collection and analysis of occupational medical cases and measurement of occupational health impact indicators. Advice to 3 Epidemiological Surveillance Systems: Psychosocial, Ergonomic and Biological Risk, and implementation of algorithms to identify frequent absenteeism.
 
  - Role: Project Prevention Advisor
  - Immediate boss: [Mario Garzón](https://www.linkedin.com/in/mario-garz%C3%B3n-lawton-82207a25/){target="_blank"}
