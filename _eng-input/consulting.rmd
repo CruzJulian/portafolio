@@ -18,7 +18,7 @@ The final product can be accessed at [3sc4l4.co](https://www.3sc4l4.co/){target=
 Project data:
 
  - Role: Project manager
- - Client: [First Steps in Corporate Social Responsibility Program](https://www.uexternado.edu.co/administracion-de-empresas/programa-primeros-pasos-en-responsabilidad-social-empresarial/){target=" _blank"}
+ - Client: [First Steps in Corporate Social Responsibility Program](https://www.uexternado.edu.co/administracion-de-empresas/programa-primeros-pasos-en-responsabilidad-social-empresarial/){target="_blank"}
  - Client (representative): [Gustavo Yepes](https://www.linkedin.com/in/gustavoyepes-lopez-82049713/){target="_blank"}.
  - Contact: gustavo.yepes@uexternado.edu.co
 
