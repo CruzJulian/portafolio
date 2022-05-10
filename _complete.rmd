@@ -68,7 +68,7 @@ cat(res, sep = '\n')
 
 ***
 
-# Working
+# Working Experience
 
 ```{r, results="asis"}
 res <- knit(text = childs[[7]], quiet = TRUE)
@@ -108,6 +108,6 @@ cat(res, sep = '\n')
 
 ***
 
-# Refetences
+# References
 
 References will be sent under request.
