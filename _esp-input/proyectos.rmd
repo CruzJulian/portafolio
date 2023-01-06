@@ -24,26 +24,6 @@ Datos del proyecto:
 
 ***
 
-## Universidad Nacional de Colombia
-
-**Dirección del diplomado de Ciencia de Datos.** Diseño de programa curricular del diplomado, selección de contenidos, docentes y materiales de cada curso. Coordinación de horarios, espacios, softwares y detalles de implementación. 
-
-Análisis estratégico del mercado y los canales de comunicación. Implementación de una experiencia de aprendizaje inmersivo centrada en los estudiantes.
-
-Es posible acceder a las diferentes versiones del diplomado en:
-
- - [Diplomado de Análisis de datos](http://www.fce.unal.edu.co/media/files/PEC/Formacion_a_escala/2019/III_TRIMESTRE/ficha_analisis_de_datos.pdf){target="_blank"}: Octubre 2019 - Diciembre 2019.
- - [Diplomado de Ciencia de datos](http://www.fce.unal.edu.co/media/files/PEC/Diplomados_2020/Diplomado_en_Ciencia_de_Datos.pdf){target="_blank"}: Septiembre 2020 - Diciembre 2020.
- - [Diplomado de Ciencia de datos](http://www.fce.unal.edu.co/media/files/PEC/Diplomados_2021/Ciencia_de_Datos_VFA1S.pdf){target="_blank"}: Febrero 2021 - Junio 2021.
-
-Datos del proyecto:
-
- - Rol: Director
- - Cliente: [Programa de Educación Continua y Permanente](http://www.fce.unal.edu.co/pec.html){target="_blank"}.
- - Contacto: uniei_fcebog@unal.edu.co, 3165000 Ext 12305/12306/12307.
-
-***
-
 ## Platzi
 
 **Curso de Estadística Inferencial** Diseño del sylabus, presentación, lecturas, código y demás materiales correspondientes al curso.

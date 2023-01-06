@@ -13,7 +13,7 @@
 
 <title>index.knit</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -84,6 +85,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -236,7 +240,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -256,7 +260,7 @@ $(document).ready(function () {
   </a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     <span class="fa fa-id-badge"></span>
      
     Trayectoria
@@ -281,7 +285,7 @@ $(document).ready(function () {
   </ul>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     <span class="fa fa-cubes"></span>
      
     Portafolio
@@ -327,14 +331,16 @@ $(document).ready(function () {
 
 <p><img src="portada.png" class="portada" /></p>
 <hr />
-<p>Soy científico de datos, profesional en estadística y magíster en
-ciencias. Actualmente, dirijo el Programa en Ciencia de Datos de la
-oficina de extensión de la Universidad Nacional de Colombia y soy
+<p>Soy científico de datos, profesional en estadística, magíster en
+ciencias y estoy cursando una especialización en gerencia. Actualmente,
+dirijo los programas en Ciencia de Datos e Inteligencia de Negocios de
+la oficina de extensión de la Universidad Nacional de Colombia y soy
 docente investigador en la Universidad Externado de Colombia. Cuento con
-más de 5 años de experiencia en propuesta, ejecución, evaluación y
-retroalimentación proyectos accionables de análisis de datos en diversos
-campos. Dentro de mis habilidades puedo mencionar la conformación de
-equipos, la comunicación efectiva y el compromiso con los detalles.</p>
+más de 8 años de experiencia demostrada en propuesta, ejecución y
+evaluación de proyectos accionables de análisis de datos en diversos
+campos. Esta experiencia me ha permitido desarrollar diferentes
+competencias, como la orientación a resultados, la conformación y
+desarrollo de equipos de alto desempeño y la negociación sistémica.</p>
 <hr />
 <blockquote>
 <p><a

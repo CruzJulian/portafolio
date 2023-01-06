@@ -6,6 +6,8 @@ title: "Background"
 
 ## Education
 
+- Degree on Management. Universidad Externado de Colombia. Currently.
+
 - M.Sc. Statistics, master thesis: [Aplicación de Algoritmos de Agrupamiento a Funciones de Distribución Empírica](https://repositorio.unal.edu.co/handle/unal/64015){target="_blank"}. National University of Colombia. September of 2018.
 
 - Statistics, disertation: Estimación Heurística de Medidas de Probabilidad Mediante Mixturas. Universidad Nacional de Colombia. May of 2015.

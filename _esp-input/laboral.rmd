@@ -4,6 +4,27 @@ title: "Experiencia laboral"
 
 ***
 
+## Universidad Nacional de Colombia
+
+**Dirección de diplomados en Ciencia de Datos e Inteligencia de Negocios.** Diseño de programa curricular del diplomado, selección de contenidos, docentes y materiales de cada curso. Coordinación de horarios, espacios, softwares y detalles de implementación. 
+
+Análisis estratégico del mercado y los canales de comunicación. Implementación de una experiencia de aprendizaje inmersivo centrada en los estudiantes.
+
+Es posible acceder a los detalles de los diplomados:
+
+ - [Diplomado en Análisis de datos](http://www.fce.unal.edu.co/media/files/PEC/Formacion_a_escala/2019/III_TRIMESTRE/ficha_analisis_de_datos.pdf){target="_blank"}
+ - [Diplomado en Ciencia de datos](http://fce.unal.edu.co/pec/diplomado-en-ciencia-de-datos/){target="_blank"}
+ - [Diplomado en Inteligencia de Negocios](http://fce.unal.edu.co/pec/diplomado-en-inteligencia-de-negocios/){target="_blank"}
+
+Datos del proyecto:
+
+ - Rol: Director
+ - Jefe inmediato: [Sylvia María Valenzuela](https://www.linkedin.com/in/sylvia-maria-valenzuela-tovar-55648515b/)
+ - Contacto: uniei_fcebog@unal.edu.co, 3165000 Ext 12305/12306/12307.
+ - Agosto 2019 - Actualmente
+
+***
+
 ## Universidad Externado de Colombia
 
 **Asesoría estadística en investigación** Diseño metodológico, recolección de la información, estimación de parámetros, tamaños de muestra, diseño de formularios, desarrollo de encuestas, desarrollo de plataformas web, diseños muestrales y análisis cuantitativos, entre otras, para los estudios:
@@ -21,6 +42,7 @@ Adicionalmente intervenciones breves y colaboraciones para algunas tesis de maes
  - Abril 2016 - Actualmente.
 
 ***
+
 
 ## Ministerio de las Tecnologías de la Información y las Comunicaciones
 

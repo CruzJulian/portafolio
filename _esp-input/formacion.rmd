@@ -6,6 +6,8 @@ title: "Formación"
 
 ## Educación superior 
 
+- Especialización en Gerencia. Universidad Externado de Colombia. En curso.
+
 - M.Sc. Estadística, Tesis de grado: [Aplicación de Algoritmos de Agrupamiento a Funciones de Distribución Empírica](https://repositorio.unal.edu.co/handle/unal/64015){target="_blank"}. Universidad Nacional de Colombia. Grado en septiembre de 2018.
 
 - Estadística, Tesis de grado: Estimación Heurística de Medidas de Probabilidad Mediante Mixturas. Universidad Nacional de Colombia. Grado en mayo de 2015.
