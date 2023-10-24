@@ -41,10 +41,10 @@ render(
 
 
 
-render(
-  "_web.rmd", 
-  output_dir = "_other", 
-  output_format = "html_document",
-  output_file = "index.html"
-)
+# render(
+#   "_web.rmd", 
+#   output_dir = "_other", 
+#   output_format = "html_document",
+#   output_file = "index.html"
+# )
 

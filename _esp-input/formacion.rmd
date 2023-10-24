@@ -4,7 +4,7 @@ title: "Formación"
 
 ***
 
-## Educación superior 
+## Educación
 
 - Especialización en Gerencia. Universidad Externado de Colombia. En curso.
 
@@ -18,18 +18,23 @@ title: "Formación"
 
  - Experto: R
  
- - Avanzado: Microsoft Office (Word, Excel, Power Point); Inkscape.
+ - Avanzado: Microsoft Office (Word, Excel, Power Point); Inkscape, Linux, Bash.
  
- - Básico: SQL, Python, HTML5, CSS3, PHP, LaTeX, Java, C++, Blender, Linux, Bash, Docker.
+ - Básico: SQL, Python, HTML5, CSS3, PHP, LaTeX, Java, C++, Blender, Docker, GCP.
 
 ## Manejo de idiomas
 
  - Inglés: B1 (Examen de Estado de Calidad de la Educación Superior, Saber Pro 2013)
+ - Inglés: C2 ([EF SET English Certificate 72/100. C2 Proficient. Enero 2023](https://www.efset.org/cert/yMegHW){target="_blank"})
+
 
 ***
 
 ## Publicaciones
 
+- [Institutionalization of corporate bribery: a measurement proposal with evidence from a Latin American sample](https://www.emerald.com/insight/content/doi/10.1108/ARLA-04-2022-0099/full/html?utm_source=smc_email_onboarding&utm_medium=email&utm_campaign=apa_author_journals_access_2023-6-14){target="_blank"}, con Gustavo Yepes, José Luis Camarena y otros. Emerald Insight. 2023.
+- [Chapter 10: Who Pays for Corporate Social Responsibility?: Proposal for an Externalization Index of CSR Costs](https://link.springer.com/book/10.1007/978-3-031-10437-4){target="_blank"}, con Gustavo Yepes y José Luis Camarena. Springer. 2023.
+- [Capítulo 4: El modelo pentadimensional aplicado a las empresas de Bogotá, Colombia](https://bdigital.uexternado.edu.co/server/api/core/bitstreams/bbf36c2b-9e0f-4f0d-a7a7-dff7b94777cc/content){target="_blank"}, con Gustavo Yepes, Carlos Bello y José Luis Camarena. Universidad Externado de Colombia. 2021.
  - [Diferencia de logro geolocalizado en educación presencial y a distancia en Colombia](https://redie.uabc.mx/redie/article/view/3711){target="_blank"}, con Nicolás Arias y William Ricón. Revista Electrónica de Investigación educativa REDIE. 2021.
 - [Temas de investigación sobre competencias de profesores en iniciativas de actores externos en escuelas colombianas de educación básica y media](https://journal.poligran.edu.co/index.php/poliantea/article/view/2337/2209){target="_blank"}, con Nicolás Arias. Poliantea. 2021.
 - [The market segmentation of higher education in Colombia reveals social inequalities](https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2021.1877885?needAccess=true){target="_blank"}, with Frederick Mendoza. Cogent Education. 2021.
@@ -45,6 +50,7 @@ title: "Formación"
 
 ## Proyectos de aprendizaje y reconocimientos
 
+ - 20+ certificados en distintos cursos sobre desarrollo tecnológico y transformación digital en empresas, [Platzi](https://platzi.com/){target="_blank"}.
  - III Congreso Internacional "Estudios en Organizaciones Públicas, Privadas y Sociales en América Latina y El Caribe". Ponencia titulada: _Logro Educativo y Evidencias de sus posibles Factores Asociados en Estudiantes de Ciencias Económicas en Modalidadd Presencial y Virtual_, con Nicolás Arias y William Rincón.
  - Paquete de R: _[Saber](https://github.com/nebulae-co/saber){target="_blank"}_, con Daniel Moreno y Adriana Clavijo: 
  - Paquete de R: _[Colmaps](https://github.com/nebulae-co/colmaps){target="_blank"}_, con Daniel Moreno y Adriana Clavijo. 

@@ -24,26 +24,6 @@ Project data:
 
 ***
 
-## Universidad Nacional de Colombia
-
-**Management of the Data Science Program.** Design of learning curriculum, selection of content, teachers and materials for each course. Coordination of schedules, spaces, software and implementation details.
-
-Strategic analysis of the market and communication channels. Implementation of a student-centered immersive learning experience.
-
-It is possible to access the different versions of the diploma at:
-
- - [Diplomado de Análisis de datos](http://www.fce.unal.edu.co/media/files/PEC/Formacion_a_escala/2019/III_TRIMESTRE/ficha_analisis_de_datos.pdf){target="_blank"}: October 2019 - December 2019.
- - [Diplomado de Ciencia de datos](http://www.fce.unal.edu.co/media/files/PEC/Diplomados_2020/Diplomado_en_Ciencia_de_Datos.pdf){target="_blank"}: September 2020 - December 2020.
- - [Diplomado de Ciencia de datos](http://www.fce.unal.edu.co/media/files/PEC/Diplomados_2021/Ciencia_de_Datos_VFA1S.pdf){target="_blank"}: February 2021 - June 2021.
-
-Project data:
-
- - Role: Program manager
- - Client: [Continuing Education Office](http://www.fce.unal.edu.co/pec.html){target="_blank"}.
- - Contact: uniei_fcebog@unal.edu.co, 3165000 Ext 12305/12306/12307.
-
-***
-
 ## Platzi
 
 **Statistical Inference Course.** Design of the syllabus, presentations, readings, codes and other related materials.

@@ -11,6 +11,11 @@ fa(name = "linkedin", fill = "#444444") -> emoji_ln
 ```
 
 
-> [`r emoji_mail`](mailto: cruz.julian.mauricio@gmail.com) [`r emoji_tw`](https://twitter.com/Cruz_Julian_){target="_blank"} [`r emoji_ln`](https://www.linkedin.com/in/cruzjulian/){target="_blank"}
+[`r emoji_mail`](mailto: cruz.julian.mauricio@gmail.com) [`r emoji_tw`](https://twitter.com/Cruz_Julian_){target="_blank"} [`r emoji_ln`](https://www.linkedin.com/in/cruzjulian/){target="_blank"} [CVLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001399375) [ORCID](https://orcid.org/0000-0002-4407-6184) [Google Scholar](https://scholar.google.es/citations?user=sDpkM20AAAAJ&hl=es)
 
-#### Powered by [![](logo.png){style="height:20px"}](index.html) using RStudio technologies
+
+
+
+
+
+#### Powered by [![](logo.png){style="height:20px"}](index.html) using [Posit](https://posit.co/) technologies

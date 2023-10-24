@@ -4,6 +4,27 @@ title: "Work Experience"
 
 ***
 
+## Universidad Nacional de Colombia
+
+**Management of Data Science and Business Intelligence Programs.** Design of learning curriculum, selection of content, teachers and materials for each course. Coordination of schedules, spaces, software and implementation details.
+
+Strategic analysis of the market and communication channels. Implementation of a student-centered immersive learning experience.
+
+It is possible to access the different versions of the diploma at:
+
+ - [Diplomado de Análisis de datos](http://www.fce.unal.edu.co/media/files/PEC/Formacion_a_escala/2019/III_TRIMESTRE/ficha_analisis_de_datos.pdf){target="_blank"}: October 2019 - December 2019.
+ - [Diplomado de Ciencia de datos](http://www.fce.unal.edu.co/media/files/PEC/Diplomados_2020/Diplomado_en_Ciencia_de_Datos.pdf){target="_blank"}: September 2020 - December 2020.
+ - [Diplomado de Ciencia de datos](http://www.fce.unal.edu.co/media/files/PEC/Diplomados_2021/Ciencia_de_Datos_VFA1S.pdf){target="_blank"}: February 2021 - June 2021.
+
+Project data:
+
+ - Role: Program manager
+ - Immediate boss: Sandra Marín Pino.
+ - Contact: proypec_fcebog@unal.edu.co.
+ - August 2019 - Actualmente
+
+***
+
 ## Universidad Externado de Colombia
 
 **Statistical consultancy in research.** Methodological design, data collection, estimation of parameters, sample sizes, form design, survey development, web platform development, sample design and quantitative analysis, among others, for the studies:
@@ -18,7 +39,7 @@ Additionally, brief interventions and collaborations for some Master's theses an
  - Role: Professor
  - Immediate boss: [Gustavo Yepes](https://www.linkedin.com/in/gustavoyepes-lopez-82049713/){target="_blank"}
  - Contact: gustavo.yepes@uexternado.edu.co
- - April 2016 - Currently.
+ - April 2016 - December 2022.
 
 ***
 

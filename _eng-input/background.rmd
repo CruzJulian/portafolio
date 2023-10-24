@@ -30,6 +30,9 @@ title: "Background"
 
 ## Publications
 
+- Yepes, G., Cruz, J., Camarena, J., et.al. (2023). [Institutionalization of corporate bribery: a measurement proposal with evidence from a Latin American sample](https://www.emerald.com/insight/content/doi/10.1108/ARLA-04-2022-0099/full/html?utm_source=smc_email_onboarding&utm_medium=email&utm_campaign=apa_author_journals_access_2023-6-14){target="_blank"}. _Emerald Insight_.
+- Yepes, G., Cruz, J., Camarena, J. (2023). [Chapter 10: Who Pays for Corporate Social Responsibility?: Proposal for an Externalization Index of CSR Costs](https://link.springer.com/book/10.1007/978-3-031-10437-4){target="_blank"}. _Springer._
+- Yepes, G., Bello, C., Cruz, J., Camarena, J. (2021). [Capítulo 4: El modelo pentadimensional aplicado a las empresas de Bogotá, Colombia](https://bdigital.uexternado.edu.co/server/api/core/bitstreams/bbf36c2b-9e0f-4f0d-a7a7-dff7b94777cc/content){target="_blank"}. _Universidad Externado de Colombia._
 - Arias, N., Cruz, J., & Rincón, W. (2021). [Diferencia de logro geolocalizado en educación presencial y a distancia en Colombia](https://redie.uabc.mx/redie/article/view/3711){target="_blank"}. _Revista Electrónica de Investigación educativa REDIE._
 - Arias, N., & Cruz, J. (2021). [Temas de investigación sobre competencias de profesores en iniciativas de actores externos en escuelas colombianas de educación básica y media](https://journal.poligran.edu.co/index.php/poliantea/article/view/2337/2209){target="_blank"}. _Poliantea._
 - Cruz, J,. & Mendoza, F., (2021). [The market segmentation of higher education in Colombia reveals social inequalities](https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2021.1877885?needAccess=true){target="_blank"}. _Cogent Education._
@@ -45,6 +48,7 @@ title: "Background"
 
 ## Learning projects and acknowledgments
 
+ - 20+ certifications on different topics of technological management and digital transformation, [Platzi](https://platzi.com/){target="_blank"}.
  - 3rd International Congress "Estudios en Organizaciones Públicas, Privadas y Sociales en América Latina y El Caribe". Presentation: _Logro Educativo y Evidencias de sus posibles Factores Asociados en Estudiantes de Ciencias Económicas en Modalidadd Presencial y Virtual_, with Nicolás Arias and William Rincón.
  - R package: _[Saber](https://github.com/nebulae-co/saber){target="_blank"}_, with Daniel Moreno and Adriana Clavijo: 
  - R package: _[Colmaps](https://github.com/nebulae-co/colmaps){target="_blank"}_, with Daniel Moreno and Adriana Clavijo. 

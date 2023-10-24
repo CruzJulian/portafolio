@@ -6,7 +6,7 @@ title: "Experiencia laboral"
 
 ## Universidad Nacional de Colombia
 
-**Dirección de diplomados en Ciencia de Datos e Inteligencia de Negocios.** Diseño de programa curricular del diplomado, selección de contenidos, docentes y materiales de cada curso. Coordinación de horarios, espacios, softwares y detalles de implementación. 
+**Dirección de diplomados en Ciencia de Datos e Inteligencia de Negocios.** Diseño curricular del diplomado, selección de contenidos, docentes y materiales de cada curso. Coordinación de horarios, espacios, softwares y detalles de implementación. 
 
 Análisis estratégico del mercado y los canales de comunicación. Implementación de una experiencia de aprendizaje inmersivo centrada en los estudiantes.
 
@@ -19,8 +19,8 @@ Es posible acceder a los detalles de los diplomados:
 Datos del proyecto:
 
  - Rol: Director
- - Jefe inmediato: [Sylvia María Valenzuela](https://www.linkedin.com/in/sylvia-maria-valenzuela-tovar-55648515b/)
- - Contacto: uniei_fcebog@unal.edu.co, 3165000 Ext 12305/12306/12307.
+ - Jefe inmediato: Sandra Marín Pino
+ - Contacto: proypec_fcebog@unal.edu.co.
  - Agosto 2019 - Actualmente
 
 ***
@@ -39,7 +39,7 @@ Adicionalmente intervenciones breves y colaboraciones para algunas tesis de maes
  - Rol: Docente
  - Jefe inmediato: [Gustavo Yepes](https://www.linkedin.com/in/gustavoyepes-lopez-82049713/){target="_blank"}
  - Contacto: gustavo.yepes@uexternado.edu.co
- - Abril 2016 - Actualmente.
+ - Abril 2016 - Diciembre 2022
 
 ***
 
@@ -50,7 +50,7 @@ Adicionalmente intervenciones breves y colaboraciones para algunas tesis de maes
 
  - Rol: Jefe de Ciencia de Datos
  - Jefe inmediato: Nicolás Almeyda
- - Contacto: nalmeyda@mintic.gov.co 
+ - Contacto: nalmeyda@mintic.gov.co
  - Agosto 2020 - Diciembre 2021.
 
 ***

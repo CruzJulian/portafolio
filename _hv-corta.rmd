@@ -7,7 +7,7 @@ output: pdf_document
 ---
 
    
-\Letter: cruz.julian.mauricio@gmail.com, \ComputerMouse: [Cruz Julian](https://cruzjulian.github.io/portafolio)
+\Letter: cruz.julian.mauricio@gmail.com, \ComputerMouse: [Cruz Julian](https://cruzjulian.github.io/portafolio), [CVLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001399375), [ORCID](https://orcid.org/0000-0002-4407-6184), [Google Scholar](https://scholar.google.es/citations?user=sDpkM20AAAAJ&hl=es), [LinkedIn](https://co.linkedin.com/in/cruzjulian)
 
 
 ```{r, echo=FALSE}
