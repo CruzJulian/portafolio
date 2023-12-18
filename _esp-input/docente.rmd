@@ -4,17 +4,77 @@ title: "Experiencia docente"
 
 ***
 
-**Docente de postgrado y educación continua** Esta labor comprende el construcción e implementación de cursos para distintos programas de posgrado y de educación continua. Diseño y producción de materiales pedagógicos. Diseño y aplicación de herramientas de evaluación en los cursos:
 
- - _Investigación cuantitativa de mercados_. Maestría en mercadeo. Facultad de administración de empresas. Universidad Externado de Colombia. 2020.
- - _Analítica de negocios_. Maestría en Gerencia Estratégica de Tecnologías de Información. Facultado de Administración de Empresas. Universidad Externado de Colombia. 2020.
+## Universidad Nacional de Colombia
+
+**Dirección de diplomados en Ciencia de Datos e Inteligencia de Negocios.** Diseño curricular del diplomado, selección de contenidos, docentes y materiales de cada curso. Coordinación de horarios, espacios, softwares y detalles de implementación. 
+
+Análisis estratégico del mercado y los canales de comunicación. Implementación de una experiencia de aprendizaje inmersivo centrada en los estudiantes.
+
+Es posible acceder a los detalles de los diplomados:
+
+ - [Diplomado en Análisis de datos](http://www.fce.unal.edu.co/media/files/PEC/Formacion_a_escala/2019/III_TRIMESTRE/ficha_analisis_de_datos.pdf){target="_blank"}
+ - [Diplomado en Ciencia de datos](http://fce.unal.edu.co/pec/diplomado-en-ciencia-de-datos/){target="_blank"}
+ - [Diplomado en Inteligencia de Negocios](http://fce.unal.edu.co/pec/diplomado-en-inteligencia-de-negocios/){target="_blank"}
+
+Datos del proyecto:
+
+ - Rol: Director
+ - Jefe inmediato: Sandra Marín Pino
+ - Contacto: proypec_fcebog@unal.edu.co.
+ - Agosto 2019 - Actualmente
+
+Adicionalmente,
+
  - _Elaboración de informes estadísticos_, curso de extensión dirigido a funcionarios de la Veeduría Distrital, Programa de Educación Continua (PEC), Facultad de Ciencias Económicas. Universidad Nacional de Colombia. 2019. 
  - _Minería de Datos_, curso de extensión dirigido a funcionarios del Banco Agrario, Programa de Educación Continua (PEC), Facultad de Ciencias Económicas. Universidad Nacional de Colombia. 2019. 
  - _Minería de Datos_ curso de extensión en el marco del [Diplomado en Inteligencia de Mercados](http://www.fce.unal.edu.co/media/files/PEC/cursos/Diplomados_2019/ficha_diplomado_inteligencia_de_mercados.pdf){target="_blank"}, Programa de Educación Continua (PEC), Facultad de Ciencias Económicas. Universidad Nacional de Colombia. 2019. 
  - _Analítica de datos en mercadeo_, curso de extensión en el marco del [Diplomado en Inteligencia de Mercados](http://www.fce.unal.edu.co/media/files/PEC/cursos/Diplomados_2019/ficha_diplomado_inteligencia_de_mercados.pdf){target="_blank"}, Programa de Educación Continua (PEC), Facultad de Ciencias Económicas Universidad Nacional de Colombia. 2019. 
  - _Introducción a R_, curso de extensión en el marco del [Diplomado de Procesamiento y Análisis de Datos](http://www.fce.unal.edu.co/media/files/PEC/cursos/cursos_2019/Ficha_procesamiento_y_analisis_de_datos_15012019.pdf){target="_blank"}, Programa de Educación Continua (PEC), Facultad de Ciencias Económicas Universidad Nacional de Colombia 2019.
 
+
 ***
+
+## Universidad Externado de Colombia
+
+**Asesoría estadística en investigación** Diseño metodológico, recolección de la información, estimación de parámetros, tamaños de muestra, diseño de formularios, desarrollo de encuestas, desarrollo de plataformas web, diseños muestrales y análisis cuantitativos, entre otras, para los estudios:
+
+ - Índice de Institucionalización del Soborno en Latino América y el Caribe. Publicado en el libro [Estado de las prácticas empresariales contra el soborno: primer estudio latimoamericano](https://www.pactoglobal-colombia.org/images/PDFs/LIBRO_Estudio_Antisoborno_2019.pdf){target="_blank"}.
+ - Estudio Nacional de Transparencia 2018. Informe publicado por Transparencia por Colombia.
+ - Soborno Corporativo como Institución. Publicado en el libro [Corrupción en Colombia](https://publicaciones.uexternado.edu.co/corrupcion-en-colombia-tomo-3-corrupcion-privada-politica-colombiana.html){target="_blank"}.
+ - Estudio Nacional de Transparencia 2016. Informe publicado por Transparencia por Colombia.
+
+Adicionalmente intervenciones breves y colaboraciones para algunas tesis de maestría y artículos de investigación.
+ 
+ - Rol: Docente
+ - Jefe inmediato: [Gustavo Yepes](https://www.linkedin.com/in/gustavoyepes-lopez-82049713/){target="_blank"}
+ - Contacto: gustavo.yepes@uexternado.edu.co
+ - Abril 2016 - Diciembre 2022
+ 
+ Adicionalmente,
+ 
+ **Docente de postgrado y educación continua** Esta labor comprende el construcción e implementación de cursos para distintos programas de posgrado y de educación continua. Diseño y producción de materiales pedagógicos. Diseño y aplicación de herramientas de evaluación en los cursos:
+
+ - _Investigación cuantitativa de mercados_. Maestría en mercadeo. Facultad de administración de empresas. Universidad Externado de Colombia. 2020.
+ - _Analítica de negocios_. Maestría en Gerencia Estratégica de Tecnologías de Información. Facultado de Administración de Empresas. Universidad Externado de Colombia. 2020.
+
+***
+
+## Platzi
+
+**Curso de Estadística Inferencial** Diseño del sylabus, presentación, lecturas, código y demás materiales correspondientes al curso.
+
+Es posible acceder al producto final en [Estadística Inferencial con R](https://platzi.com/cursos/estadistica-inferencial/){target="_blank"}.
+
+Datos del proyecto:
+
+ - Rol: Profesor
+ - Cliente (representante): [Enrique Devars](https://www.edevars.com/){target="_blank"}.
+ - Contacto: devars@platzi.com
+ - Julio 2020.
+
+***
+
 
 ```{r, child="footer.rmd"}
 ```

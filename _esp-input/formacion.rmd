@@ -51,6 +51,7 @@ title: "Formación"
 ## Proyectos de aprendizaje y reconocimientos
 
  - 20+ certificados en distintos cursos sobre desarrollo tecnológico y transformación digital en empresas, [Platzi](https://platzi.com/){target="_blank"}.
+ - Dirección del diseño y desarrollo de la plataforma de Responsabilidad Social Empresarial [3sc4l4.co](https://www.3sc4l4.co/){target="_blank"}.
  - III Congreso Internacional "Estudios en Organizaciones Públicas, Privadas y Sociales en América Latina y El Caribe". Ponencia titulada: _Logro Educativo y Evidencias de sus posibles Factores Asociados en Estudiantes de Ciencias Económicas en Modalidadd Presencial y Virtual_, con Nicolás Arias y William Rincón.
  - Paquete de R: _[Saber](https://github.com/nebulae-co/saber){target="_blank"}_, con Daniel Moreno y Adriana Clavijo: 
  - Paquete de R: _[Colmaps](https://github.com/nebulae-co/colmaps){target="_blank"}_, con Daniel Moreno y Adriana Clavijo. 

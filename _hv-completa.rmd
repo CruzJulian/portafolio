@@ -57,32 +57,12 @@ cat(res, sep = '\n')
 
 ```
 
-
-***
-
-# Formación
-
-```{r, results="asis"}
-res <- knit(text = childs[[2]], quiet = TRUE)
-cat(res, sep = '\n')
-
-```
-
 ***
 
 # Experiencia laboral
 
 ```{r, results="asis"}
 res <- knit(text = childs[[3]], quiet = TRUE)
-cat(res, sep = '\n')
-
-```
-
-***
-# Consultorías y proyectos
-
-```{r, results="asis"}
-res <- knit(text = childs[[5]], quiet = TRUE)
 cat(res, sep = '\n')
 
 ```
@@ -98,6 +78,26 @@ cat(res, sep = '\n')
 ```
 
 ***
+
+# Formación
+
+```{r, results="asis"}
+res <- knit(text = childs[[2]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+
+```{r, results="hide"}
+# # Consultorías y proyectos
+# res <- knit(text = childs[[5]], quiet = TRUE)
+# cat(res, sep = '\n')
+# ***
+
+```
+
 
 # Referencias y soportes
 

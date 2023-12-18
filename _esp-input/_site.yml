@@ -24,9 +24,9 @@ navbar:
         - text: "Asesorías"
           icon: fa-book
           href: tesis.html
-    - text: "Eng"
-      icon: fa-language
-      href: landing.html
+#    - text: "Eng"
+#      icon: fa-language
+#      href: landing.html
 output:  
   html_document:
     self_contained: no  

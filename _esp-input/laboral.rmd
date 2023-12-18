@@ -4,46 +4,6 @@ title: "Experiencia laboral"
 
 ***
 
-## Universidad Nacional de Colombia
-
-**Dirección de diplomados en Ciencia de Datos e Inteligencia de Negocios.** Diseño curricular del diplomado, selección de contenidos, docentes y materiales de cada curso. Coordinación de horarios, espacios, softwares y detalles de implementación. 
-
-Análisis estratégico del mercado y los canales de comunicación. Implementación de una experiencia de aprendizaje inmersivo centrada en los estudiantes.
-
-Es posible acceder a los detalles de los diplomados:
-
- - [Diplomado en Análisis de datos](http://www.fce.unal.edu.co/media/files/PEC/Formacion_a_escala/2019/III_TRIMESTRE/ficha_analisis_de_datos.pdf){target="_blank"}
- - [Diplomado en Ciencia de datos](http://fce.unal.edu.co/pec/diplomado-en-ciencia-de-datos/){target="_blank"}
- - [Diplomado en Inteligencia de Negocios](http://fce.unal.edu.co/pec/diplomado-en-inteligencia-de-negocios/){target="_blank"}
-
-Datos del proyecto:
-
- - Rol: Director
- - Jefe inmediato: Sandra Marín Pino
- - Contacto: proypec_fcebog@unal.edu.co.
- - Agosto 2019 - Actualmente
-
-***
-
-## Universidad Externado de Colombia
-
-**Asesoría estadística en investigación** Diseño metodológico, recolección de la información, estimación de parámetros, tamaños de muestra, diseño de formularios, desarrollo de encuestas, desarrollo de plataformas web, diseños muestrales y análisis cuantitativos, entre otras, para los estudios:
-
- - Índice de Institucionalización del Soborno en Latino América y el Caribe. Publicado en el libro [Estado de las prácticas empresariales contra el soborno: primer estudio latimoamericano](https://www.pactoglobal-colombia.org/images/PDFs/LIBRO_Estudio_Antisoborno_2019.pdf){target="_blank"}.
- - Estudio Nacional de Transparencia 2018. Informe publicado por Transparencia por Colombia.
- - Soborno Corporativo como Institución. Publicado en el libro [Corrupción en Colombia](https://publicaciones.uexternado.edu.co/corrupcion-en-colombia-tomo-3-corrupcion-privada-politica-colombiana.html){target="_blank"}.
- - Estudio Nacional de Transparencia 2016. Informe publicado por Transparencia por Colombia.
-
-Adicionalmente intervenciones breves y colaboraciones para algunas tesis de maestría y artículos de investigación.
- 
- - Rol: Docente
- - Jefe inmediato: [Gustavo Yepes](https://www.linkedin.com/in/gustavoyepes-lopez-82049713/){target="_blank"}
- - Contacto: gustavo.yepes@uexternado.edu.co
- - Abril 2016 - Diciembre 2022
-
-***
-
-
 ## Ministerio de las Tecnologías de la Información y las Comunicaciones
 
 **Dirección del equipo de Ciencia de Datos.** Puesta en marcha del procedimiento de analítica. Propuesta, ejecución, evaluación y retroalimentación de proyectos de Ciencia de Datos para el análisis de la información contenida en los sistemas de información de la entidad que incorporen el uso de herramientas de analítica de grandes volúmenes de información (Big Data), en cumplimiento de todo lo relacionado con las obligaciones legales, contractuales y regulatorias de las empresas prestadoras de servicios móvil, no móvil, televisión, radiodifusión sonora y postal.
@@ -52,6 +12,60 @@ Adicionalmente intervenciones breves y colaboraciones para algunas tesis de maes
  - Jefe inmediato: Nicolás Almeyda
  - Contacto: nalmeyda@mintic.gov.co
  - Agosto 2020 - Diciembre 2021.
+
+***
+
+## Institución Universitaria Politécnico Grancolombiano
+
+**Consultoría en minería de datos** Diseño y desarrollo de un sistema de distancias entre asignaturas para la optimización del portafolio de asignaturas en el marco de mejoras a la plataforma institucional.
+
+Datos del proyecto:
+
+ - Rol: Consultor Estadístico Especializado
+ - Cilente (representante): [Ana Cristina Miranda](https://www.linkedin.com/in/ana-cristina-miranda-cárdenas-20273b114/){target="_blank"}.
+ - Contacto: amiranda@poligran.edu.co.
+ - Febrero 2018 - Mayo 2018.
+
+**Consultoría estadística en investigación** Diseño metodológico, recolección de la información y análisis estadístico para los estudios _Análisis de iniciativas de formación docente según antecedentes de investigación internacional sobre competencias docentes_, _Preparación de bases de datos de evaluaciones internacionales de PISA 2015_ y _Revisión de antecedentes de comparación entre educación presencial y virtual_.
+
+Datos del proyecto:
+
+ - Rol: Consultor Estadístico Especializado
+ - Cliente (representante): [Nicolás Arias](https://www.linkedin.com/in/nicolas-arias-velandia-706719ab/){target="_blank"}.
+ - Contacto: nariasv@poligran.edu.co
+ - Septiembre de 2017 - Noviembre 2017.
+
+
+**Consultoría estadística en investigación** Diseño metodológico, recolección de la información y análisis estadístico para el estudio _Estudio de la Oferta y la Demanda de Programas Académicos de Educación Superior en Colombia_.
+
+Datos del proyecto:
+
+ - Rol: Consultor Estadístico Especializado
+ - Cliente (representante): [Frederick Andrés Mendoza](https://www.linkedin.com/in/frederick-andres-mendoza-lozano-7a773133/){target="_blank"}.
+ - Contacto: famendozal23@gmail.com 
+ - Mayo 2017 - Agosto 2017.
+
+**Consultoría estadística en investigación** Diseño metodológico, recolección de la información y análisis estadístico para el estudio _Logro Educativo en Estudiantes de Ciencias Económicas en Educación Superior Presencial y Virtual_. Proyecto ganador en la [Convocatoria ICFES 2015](https://www.icfes.gov.co/web/guest/resultados-de-investigaciones-2015){target="_blank"}. 
+
+Datos del proyecto:
+
+ - Rol: Consultor Estadístico Especializado
+ - Cliente (representante): [Nicolás Arias](https://www.linkedin.com/in/nicolas-arias-velandia-706719ab/){target="_blank"}.
+ - Contacto: nariasv@poligran.edu.co
+ - Agosto 2016 - Diciembre 2016.
+
+***
+
+## Power Data SAS
+
+**Modelos de pronóstico de deserción para Claro Hogares** Planeación y direccionamiento en procesos de medición y pronóstico para el área de Analytics. Responsable de los procesos de diseño, ajuste, estimación e implementación de modelos y algoritmos estadísticos, de aprendizaje automático y de minería de datos.
+
+Datos del proyecto:
+
+ - Rol: Consultor Senior
+ - Cliente (representante): [Nicolás Aristizabal](https://www.linkedin.com/in/niaristizaballo/){target="_blank"}.
+ - nicolas.aristizabal.eci@gmail.com
+ - Noviembre 2015 - Marzo 2016
 
 ***
 
