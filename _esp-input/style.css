@@ -3,33 +3,12 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 
 
-
-body {
-  font-family: Roboto;
-  font-size: 16px;
-  color: 171717;
-  background-color: #EDEDED;
-}
-
 p {
   text-align: justify;
 }
 
-
-.portada{
-  width: 100%;
-  max-width: 1000px;
-}
-
-.navbar {
-  color: #EDEDED;
-  background-color: #171717;
-  font-family: Poppins;
-}
-
 h1 {
   font-family: Poppins;
-  font-size: 16px;
   color: #0088aa;
 }
 
@@ -42,7 +21,7 @@ h2 {
 
 
 
-
+/*
 
 
 
@@ -71,35 +50,67 @@ a {
 a:hover{
   color: #444444;
 }
+*/
 
+.portada{
+  width: 100%;
+  max-width: 1000px;
+}
 
-blockquote p{
-  text-align: right;
-  font-size: 24pt;
+/*
+
+.navbar-brand-logo {
+  width: 130px;
+  height: 40px;
   padding: 0;
 }
 
-h4 {
-  text-align: right;
-  font-size: 8pt;
+.navbar-logo {
+  max-height: 100px;
   padding: 0;
 }
 
-.navbar-nav {
-  background-color: #EDEDED;
+.nav-link:hover{
+  color: #0088aa !important;
+}
+
+.active{
+  color: #0088aa !important;
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a.active{
+  color: #0088aa !important;
+}
+
+
+.nav-link:active{
+    background-color: #ff0000;
 }
 
 .dropdown-menu .active a{
   background-color: #0088aa;
 }
 
+.navbar-nav {
+  background-color: #EDEDED;
+}
+
+
 .dropdown-menu .active a:hover{
   background-color: #0088aa;
 }
+
+.navbar {
+  color: #EDEDED;
+  background-color: #171717;
+  font-family: Poppins;
+} 
 
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
   background-color: #EDEDED;
   color: #0088aa;
 }
+
+*/
 

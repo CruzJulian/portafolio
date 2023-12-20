@@ -1,7 +1,0 @@
----
-title: "Proyectos"
----
-
-```{r, child="footer.rmd"}
-```
-

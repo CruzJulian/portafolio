@@ -1,2 +1,2 @@
-print("Mantén actualizada tu hoja de vida!")
-print("Rscript _run_all.r")
+message("Mantén actualizada tu hoja de vida!")
+message("Escribe en la terminal: $ ./_run_all.sh")

@@ -1,0 +1,135 @@
+---
+title: "Julián Mauricio Cruz Pulido"
+# output-dir: _other # No funciona 
+format: 
+  pdf:
+    include-in-header:
+      - text: |
+          \usepackage{marvosym}
+    output-file: "Cruz-Julian_CV-completa.pdf"
+    classoption: [twocolumn, landscape]
+    mainfont: Roboto-Thin
+    colorlinks: true
+    # linkcolor: ppp # No funciona
+    geometry:
+      - top=15mm
+      - right=10mm
+      - bottom=10mm
+      - left=15mm
+
+---
+
+   
+\Letter: cruz.julian.mauricio@gmail.com, \ComputerMouse: [Cruz Julian](https://cruzjulian.github.io/portafolio), [CVLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001399375), [ORCID](https://orcid.org/0000-0002-4407-6184), [Google Scholar](https://scholar.google.es/citations?user=sDpkM20AAAAJ&hl=es), [LinkedIn](https://co.linkedin.com/in/cruzjulian)
+
+
+
+
+```{r, echo=FALSE}
+library("magrittr")
+library("knitr")
+library("readr")
+library("stringr")
+
+opts_chunk$set(echo = FALSE)
+
+carpeta_contenidos <- "_esp-input"
+
+archivos <- dir(
+      carpeta_contenidos, 
+      pattern = "qmd$"
+      )
+
+file.path(
+    carpeta_contenidos, 
+    archivos
+    ) %>% 
+#   extract(-2) %>% 
+  lapply(read_lines) %>% 
+  lapply(extract, -2) %>%
+  lapply(str_replace_all, "[*]", "") %>% 
+  setNames(archivos) -> childs
+
+
+
+
+```
+
+
+```{r}
+set.seed(123456789)
+
+emo::ji("mail") -> emoji_mail
+
+```
+
+
+```{r, results="asis"}
+res <- knit(text = childs[["perfil.qmd"]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+\newpage
+
+# Experiencia laboral
+
+```{r, results="asis"}
+res <- knit(text = childs[["laboral.qmd"]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+\newpage
+
+
+# Experiencia docente
+
+```{r, results="asis"}
+res <- knit(text = childs[["docente.qmd"]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+\newpage
+
+# Formación
+
+```{r, results="asis"}
+res <- knit(text = childs[["formacion.qmd"]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+***
+
+
+```{r, results="hide"}
+# # Consultorías y proyectos
+# res <- knit(text = childs[["proyectos.qmd"]], quiet = TRUE)
+# cat(res, sep = '\n')
+# ***
+
+```
+
+
+# Referencias y soportes
+
+Las referencias laborales y personales, como los soportes serán remitidos a solicitud de las partes interesadas.
+
+
+\newpage
+
+# Anexo: Asesoría a trabajos de grado
+
+```{r, results="asis"}
+res <- knit(text = childs[["tesis.qmd"]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```

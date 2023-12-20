@@ -1,0 +1,52 @@
+project:
+  output-dir: ../docs
+  type: website
+  render:
+    - "footer.qmd"
+    - "index.qmd"
+    - "docente.qmd"
+    - "formacion.qmd"
+    - "laboral.qmd"
+    - "proyectos.qmd"
+    - "tesis.qmd"
+
+website:
+  page-navigation: true
+  title: CruzJulián
+  search: false
+  favicon: "favicon.png"
+  body-footer: "footer.md"
+  sidebar:
+    title: false
+    logo: "logo.png"
+    style: "docked"
+    contents:
+      - text: "Inicio"
+        href: index.html
+      - text: "Experiencia"
+        href: laboral.html
+      - text: "Docencia"
+        href: docente.html
+      - text: "Formación"
+        href: formacion.html
+      - text: "Asesoría"
+        href: tesis.html
+            
+format:
+  html:
+    theme:
+     - cosmo
+     - style.scss
+    css: style.css
+    toc: true
+    toc-title: "En esta página:"
+    mainfont: "Roboto"
+    fontsize: 14px
+    fontcolor: "#171717"
+    backgroundcolor: "#ededed"
+
+#    includes:
+#      in_header: header.html
+
+
+
