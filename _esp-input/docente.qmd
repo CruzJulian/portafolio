@@ -20,8 +20,6 @@ Es posible acceder a los detalles de los diplomados:
 Datos del proyecto:
 
  - Rol: Director
- - Jefe inmediato: Sandra Marín Pino
- - Contacto: proypec_fcebog@unal.edu.co.
  - Agosto 2019 - Actualmente
 
 Adicionalmente,
@@ -47,8 +45,6 @@ Adicionalmente,
 Adicionalmente intervenciones breves y colaboraciones para algunas tesis de maestría y artículos de investigación.
  
  - Rol: Docente
- - Jefe inmediato: [Gustavo Yepes](https://www.linkedin.com/in/gustavoyepes-lopez-82049713/){target="_blank"}
- - Contacto: gustavo.yepes@uexternado.edu.co
  - Abril 2016 - Diciembre 2022
  
  Adicionalmente,
@@ -66,11 +62,7 @@ Adicionalmente intervenciones breves y colaboraciones para algunas tesis de maes
 
 Es posible acceder al producto final en [Estadística Inferencial con R](https://platzi.com/cursos/estadistica-inferencial/){target="_blank"}.
 
-Datos del proyecto:
-
  - Rol: Profesor
- - Cliente (representante): [Enrique Devars](https://www.edevars.com/){target="_blank"}.
- - Contacto: devars@platzi.com
  - Julio 2020.
 
 ***
