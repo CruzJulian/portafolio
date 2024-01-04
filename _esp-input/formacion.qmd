@@ -12,6 +12,12 @@ title: "Formación"
 
 - Estadística, Tesis de grado: Estimación Heurística de Medidas de Probabilidad Mediante Mixturas. Universidad Nacional de Colombia. Grado en mayo de 2015.
 
+- 20+ certificados en distintos cursos sobre desarrollo tecnológico y transformación digital en empresas, [Platzi](https://platzi.com/){target="_blank"}. Entre otros: [Emprendimientos Sociales y Oportunidades de Negocio](https://platzi.com/p/cruz-julian/curso/2625-emprendimiento-negocio/diploma/detalle/), [Responsabilidad Social Empresarial](https://platzi.com/p/cruz-julian/curso/2501-responsabilidad-social-empresarial/diploma/detalle/), [Empredimiento Social](https://platzi.com/p/cruz-julian/curso/2785-emprendimiento-thinking/diploma/detalle/), [Introducción a la Transformacion Digital](https://platzi.com/p/cruz-julian/curso/2375-transformacion-digital/diploma/detalle/), [Business Model Canvas](https://platzi.com/p/cruz-julian/curso/1309-canvas/diploma/detalle/), [Innovación Empresarial](https://platzi.com/p/cruz-julian/curso/2674-innovacion-empresarial/diploma/detalle/), [Innovación para el Futuro y Coolhunting](https://platzi.com/p/cruz-julian/curso/1778-coolhunting/diploma/detalle/), [Modelos de Negocio](https://platzi.com/p/cruz-julian/curso/2583-modelos-negocio/diploma/detalle/), [Técnicas de Negociación](https://platzi.com/p/cruz-julian/curso/1482-tecnicas-negociacion/diploma/detalle/), [Trabajo Remoto](https://platzi.com/p/cruz-julian/curso/1872-teletrabajo-trabajo-remoto/diploma/detalle/), [Google Suite](https://platzi.com/p/cruz-julian/curso/1401-google-suite/diploma/detalle/), [Tecnología para Gerentes y Directores](https://platzi.com/p/cruz-julian/curso/1882-tecnologia-gerentes/diploma/detalle/), [Conversion Rate Optimization](https://platzi.com/p/cruz-julian/curso/8034-cro/diploma/detalle/), [Design Sprint](https://platzi.com/p/cruz-julian/curso/1702-design-sprint/diploma/detalle/), [Design Thinking](https://platzi.com/p/cruz-julian/curso/1210-design-thinking/diploma/detalle/), [Thick Data en Negocios](https://platzi.com/p/cruz-julian/curso/1928-curso-de-thick-data/diploma/detalle/), [Estadística Computacional con Python](https://platzi.com/p/cruz-julian/curso/1835-programacion-estocastica/diploma/detalle/), [Pensamiento Probabilístico](https://platzi.com/p/cruz-julian/curso/1841-probabilistica/diploma/detalle/), [Introducción a Machine Learning](https://platzi.com/p/cruz-julian/curso/2459-machine-learning/diploma/detalle/), [Visualización de Datos para Business Intelligence](https://platzi.com/p/cruz-julian/curso/2195-visualizacion-datos/diploma/detalle/), [Redes Neuronales con PyTorch](https://platzi.com/p/cruz-julian/curso/7693-pytorch/diploma/detalle/).
+
+
+
+
+
 ***
 
 ## Manejo de software
@@ -50,7 +56,6 @@ title: "Formación"
 
 ## Proyectos de aprendizaje y reconocimientos
 
- - 20+ certificados en distintos cursos sobre desarrollo tecnológico y transformación digital en empresas, [Platzi](https://platzi.com/){target="_blank"}.
  - Dirección del diseño y desarrollo de la plataforma de investigación [Mamut](https://www.mmt-app.com/){target="_blank"}.
  - Dirección del diseño y desarrollo de la plataforma de Responsabilidad Social Empresarial [3sc4l4.co](https://www.3sc4l4.co/){target="_blank"}.
  - _Logro Educativo en Estudiantes de Ciencias Económicas en Educación Superior Presencial y Virtual_. Proyecto ganador en la [Convocatoria ICFES 2015](https://www.icfes.gov.co/web/guest/resultados-de-investigaciones-2015){target="_blank"}, con Nicolás Arias y William Rincón.
