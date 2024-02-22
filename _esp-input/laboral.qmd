@@ -11,7 +11,6 @@ title: "Experiencia laboral"
  - **Rol:** Jefe de Ciencia de Datos
  - **Desde:** Agosto 2020.
  - **Hasta:** Diciembre 2021.
- - **Duración del contrato:** 509 días.
 
 ***
 
@@ -22,7 +21,6 @@ title: "Experiencia laboral"
  - **Rol:** Consultor especializado
  - **Desde:** Agosto 2016.
  - **Hasta:** Mayo 2018.
- - **Duración:** 379 días
 
 
 ***
@@ -34,7 +32,6 @@ title: "Experiencia laboral"
  - **Rol:** Consultor Senior
  - **Desde:** Noviembre 2015
  - **Hasta:** Marzo 2016
- - **Duración:** 130 días
 
 ***
 
@@ -45,7 +42,6 @@ title: "Experiencia laboral"
  - **Rol:** Asesor de Prevención por Proyecto
  - **Desde:** Febrero 2014
  - **Hasta:** Febrero 2015
- - **Duración:** 365 días
 
 ***
 
@@ -56,7 +52,6 @@ title: "Experiencia laboral"
  - **Rol:** Asesor estadístico en investigación científica.
  - **Desde:** Junio 2011
  - **Hasta:** Enero 2013
- - **Duración:** 552 días
 
 
 ***
