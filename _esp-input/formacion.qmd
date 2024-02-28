@@ -20,14 +20,27 @@ title: "Formación"
 
 ***
 
-## Manejo de software
+## Manejo de tecnologías
 
- - Experto: R
+ - Avanzado: Python, Linux.
  
- - Avanzado: Microsoft Office (Word, Excel, Power Point); Inkscape, Linux, Python, HTML5, CSS3.
+ - Estándar: R, SQL, JSON, Linux, Docker, GCP, Bash.
  
- - Básico: SQL, PHP, LaTeX, Java, C++, Blender, Docker, GCP, Bash.
+ - Básico: PHP, LaTeX, Java, C++.
+ 
+ 
+## Habilidades
 
+ - Automatización de procesos en lenguajes de programación y creación de servicios periódicos.
+ 
+ - Ajuste de modelos de machine learning, data mining y data science en general.
+ 
+ - Planeación y ejecución de proyectos informáticos orientados a flujos de datos.
+ 
+ - Estandarización, sistematización, automatización y socialización de procesos.
+ 
+ - Automatización de tableros de control y sistemas de información gerencial.
+ 
 ## Manejo de idiomas
 
  - Inglés: B1 (Examen de Estado de Calidad de la Educación Superior, Saber Pro 2013)

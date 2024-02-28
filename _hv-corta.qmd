@@ -1,9 +1,22 @@
 ---
 title: "Julián Mauricio Cruz Pulido"
-header-includes:
-   - \usepackage{marvosym}
-linkcolor: blue
-output: pdf_document
+# output-dir: _other # No funciona 
+format: 
+  pdf:
+    include-in-header:
+      - text: |
+          \usepackage{marvosym}
+    output-file: "Cruz-Julian_CV-corta.pdf"
+    classoption: [twocolumn, landscape]
+    mainfont: Roboto-Thin
+    colorlinks: true
+    # linkcolor: ppp # No funciona
+    geometry:
+      - top=15mm
+      - right=10mm
+      - bottom=10mm
+      - left=15mm
+
 ---
 
    
@@ -22,18 +35,18 @@ carpeta_contenidos <- "_esp-input"
 
 archivos <- dir(
       carpeta_contenidos, 
-      pattern = "rmd$"
+      pattern = "qmd$"
       )
 
 file.path(
     carpeta_contenidos, 
     archivos
     ) %>% 
-  extract(-2) %>% 
+#   extract(-2) %>% 
   lapply(read_lines) %>% 
   lapply(extract, -2) %>%
   lapply(str_replace_all, "[*]", "") %>% 
-  lapply(str_replace_all, "child=\"footer.rmd\"", "") -> childs
+  setNames(archivos) -> childs
 
 
 ```
@@ -46,7 +59,7 @@ emo::ji("mail") -> emoji_mail
 ```
 
 ```{r, results="asis"}
-res <- knit(text = childs[[4]], quiet = TRUE)
+res <- knit(text = childs[["perfil.qmd"]], quiet = TRUE)
 cat(res, sep = '\n')
 
 ```
@@ -54,25 +67,31 @@ cat(res, sep = '\n')
 
 ***
 
-# Formación
-
-```{r, results="asis"}
-res <- knit(text = childs[[2]], quiet = TRUE)
-cat(res, sep = '\n')
-
-```
-
-***
+\newpage
 
 # Experiencia laboral
 
 ```{r, results="asis"}
-res <- knit(text = childs[[3]], quiet = TRUE)
+res <- knit(text = childs[["laboral.qmd"]], quiet = TRUE)
+cat(res, sep = '\n')
+
+```
+
+
+***
+
+\newpage
+
+# Formación
+
+```{r, results="asis"}
+res <- knit(text = childs[["formacion.qmd"]], quiet = TRUE)
 cat(res, sep = '\n')
 
 ```
 
 ***
+
 
 # Referencias y soportes
 
