@@ -26,6 +26,13 @@ render(
 )
 
 render(
+  "_hv-muy-corta.rmd", 
+  output_dir = "_other", 
+  output_format = "pdf_document",
+  output_file = "Cruz-Julian_CV-muy-corta.pdf"
+)
+
+render(
   "_complete.rmd", 
   output_dir = "_other", 
   output_format = "pdf_document",
