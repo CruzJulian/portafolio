@@ -1,0 +1,1525 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508.00001 285.75"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="mapa.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="true"
+     inkscape:zoom="0.75"
+     inkscape:cx="827.33333"
+     inkscape:cy="660"
+     inkscape:window-width="2560"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Dot"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="3.0009999"
+       markerHeight="3.0009999"
+       viewBox="0 0 5.6666667 5.6666667"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="Dot1"
+         sodipodi:nodetypes="sssss" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="9.0030003"
+       markerHeight="3.0009999"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <rect
+       x="672.2782"
+       y="127.804"
+       width="411.48165"
+       height="199.80113"
+       id="rect5424" />
+    <rect
+       x="1528.3245"
+       y="390.04071"
+       width="456.71952"
+       height="219.0642"
+       id="rect4119" />
+    <rect
+       x="811.33412"
+       y="621.10368"
+       width="563.41706"
+       height="261.478"
+       id="rect3022" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Fondo"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#fff9ec;fill-opacity:1;stroke:none;stroke-width:2.27865;stroke-opacity:1"
+       id="rect5200"
+       width="508"
+       height="285.75"
+       x="-2.7755576e-17"
+       y="0"
+       ry="0"
+       sodipodi:insensitive="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Cuadros">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#fb6376;stroke-width:0.930804;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15023"
+       width="85.509247"
+       height="20.233784"
+       x="25.158834"
+       y="210.46091"
+       ry="5.1783276" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 459.05074,138.72594 c -5.70773,-4.29239 -2.09973,-14.20065 -0.83302,-22.66827"
+       id="path15017"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 470.22449,88.323577 c -5.70773,-4.292389 -2.09973,-14.200656 -0.83302,-22.668275"
+       id="path14997"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="M 478.11417,31.953143 C 472.40644,27.660754 476.01444,17.752487 477.28115,9.2848679"
+       id="path14977"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 310.90848,9.961243 c 23.98334,14.961383 -3.90907,44.761528 12.06409,51.689575"
+       id="path13804"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="M 254.46911,61.688356 C 230.27176,47.075636 257.72997,16.874942 241.65822,10.178791"
+       id="path13774"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 183.10243,201.98264 c 5.2499,25.3345 -9.36231,55.08255 -3.77363,74.5824"
+       id="path13368"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 291.66348,200.95094 c -9.48458,23.99505 1.77365,54.73222 -3.77363,74.5824"
+       id="path13354"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#fb6376;stroke-width:0.92604167;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12266"
+       width="84.28054"
+       height="110.49902"
+       x="379.88977"
+       y="164.94562"
+       ry="5.188498" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#fb6376;stroke-width:1.10853;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11764"
+       width="132.24078"
+       height="47.379108"
+       x="51.338932"
+       y="95.028275"
+       ry="5.1589761"
+       rx="6.342701" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#fb6376;stroke-width:0.930804;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10631"
+       width="85.509247"
+       height="20.233784"
+       x="104.26657"
+       y="10.179082"
+       ry="5.1783276" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#fb6376;stroke-width:0.930804;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10577"
+       width="85.509247"
+       height="20.233784"
+       x="9.641758"
+       y="11.84636"
+       ry="5.1783276" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#fcb1a6;fill-opacity:1;stroke-width:2.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect6922"
+       width="62.084583"
+       height="20.807215"
+       x="148.87996"
+       y="163.92522"
+       ry="2.8644247" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:5.33653;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7028"
+       width="122.38435"
+       height="58.593914"
+       x="5.0568457"
+       y="223.38188"
+       ry="5.7613802" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#fcb1a6;fill-opacity:1;stroke-width:2.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7090"
+       width="62.084583"
+       height="20.807215"
+       x="148.87996"
+       y="134.37564"
+       ry="2.8644247" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#fcb1a6;fill-opacity:1;stroke-width:2.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7092"
+       width="62.084583"
+       height="20.807215"
+       x="148.87994"
+       y="196.68089"
+       ry="2.8644247" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#fcb1a6;fill-opacity:1;stroke-width:2.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7094"
+       width="62.084583"
+       height="20.807215"
+       x="75.931793"
+       y="196.68089"
+       ry="2.8644247" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#fcb1a6;fill-opacity:1;stroke-width:2.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7096"
+       width="62.084583"
+       height="20.807215"
+       x="115.76022"
+       y="39.404377"
+       ry="2.8644247" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#fcb1a6;fill-opacity:1;stroke-width:2.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7098"
+       width="62.084583"
+       height="20.807215"
+       x="364.30219"
+       y="126.53828"
+       ry="2.8644247" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#fcb1a6;fill-opacity:1;stroke-width:2.51388;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7100"
+       width="76.47776"
+       height="20.807215"
+       x="428.18182"
+       y="154.72493"
+       ry="2.8644247" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:6.32317;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7171"
+       width="147.18433"
+       height="68.402344"
+       x="5.5290003"
+       y="62.867001"
+       ry="6.7258167" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.517;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7173"
+       width="39.218285"
+       height="14.775476"
+       x="4.9374948"
+       y="3.78826"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.653;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7244"
+       width="46.565617"
+       height="14.775476"
+       x="53.276596"
+       y="3.78826"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.08856;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7246"
+       width="74.33847"
+       height="14.775476"
+       x="16.314062"
+       y="22.802711"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.653;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7248"
+       width="46.565617"
+       height="14.775476"
+       x="108.96303"
+       y="3.78826"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.653;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7250"
+       width="46.565617"
+       height="14.775476"
+       x="164.64946"
+       y="3.78826"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.08856;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7252"
+       width="74.33847"
+       height="14.775476"
+       x="111.92588"
+       y="22.802711"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.94849;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7254"
+       width="64.701935"
+       height="14.775476"
+       x="220.33589"
+       y="3.78826"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.94849;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7256"
+       width="64.701935"
+       height="14.775476"
+       x="219.40204"
+       y="22.802711"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.42009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7258"
+       width="64.701935"
+       height="22.793301"
+       x="219.40204"
+       y="47.113068"
+       ry="2.2412031" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.85056;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7260"
+       width="58.361465"
+       height="14.775476"
+       x="292.45401"
+       y="3.78826"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.63784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7262"
+       width="45.715298"
+       height="14.775476"
+       x="298.7771"
+       y="22.802711"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.42009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7266"
+       width="64.701935"
+       height="22.793301"
+       x="289.28378"
+       y="47.113068"
+       ry="2.2412031" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.69792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7268"
+       width="54.818634"
+       height="13.242598"
+       x="288.88489"
+       y="79.693214"
+       ry="1.3021085" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.42009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7270"
+       width="64.701935"
+       height="22.793301"
+       x="361.52982"
+       y="83.687393"
+       ry="2.2412031" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.42009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7272"
+       width="64.701935"
+       height="22.793301"
+       x="363.91074"
+       y="47.113068"
+       ry="2.2412031" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.6894;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect8946"
+       width="69.241531"
+       height="26.303156"
+       x="361.64093"
+       y="3.78826"
+       ry="2.5863175" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.94849;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect8950"
+       width="64.701935"
+       height="14.775476"
+       x="439.95764"
+       y="3.78826"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.62674;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect8952"
+       width="45.097729"
+       height="14.775476"
+       x="459.56186"
+       y="22.802711"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:3.08644;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect9859"
+       width="66.407417"
+       height="36.121124"
+       x="437.91568"
+       y="41.290958"
+       ry="3.5516918" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.94849;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect9861"
+       width="64.701935"
+       height="14.775476"
+       x="439.95764"
+       y="111.48772"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.94849;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect9863"
+       width="64.701935"
+       height="14.775476"
+       x="439.95764"
+       y="133.08725"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.10852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect9865"
+       width="75.766472"
+       height="14.775476"
+       x="429.5575"
+       y="182.2766"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.10852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect9867"
+       width="75.766472"
+       height="14.775476"
+       x="429.5575"
+       y="203.79652"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.10852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect9869"
+       width="75.766472"
+       height="14.775476"
+       x="429.5575"
+       y="225.31647"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.94849;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect9871"
+       width="64.701935"
+       height="14.775476"
+       x="326.7977"
+       y="159.04581"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.42009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect9875"
+       width="64.701935"
+       height="22.793301"
+       x="326.7977"
+       y="259.1825"
+       ry="2.2412031" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.8226;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect11265"
+       width="56.611507"
+       height="14.775476"
+       x="326.7977"
+       y="192.4247"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.10181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect11267"
+       width="75.284683"
+       height="14.775476"
+       x="326.7977"
+       y="225.8036"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.72202;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect11269"
+       width="50.535633"
+       height="14.775476"
+       x="266.10233"
+       y="224.09041"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.70291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect11271"
+       width="49.420406"
+       height="14.775476"
+       x="155.21204"
+       y="223.71469"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.70291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect11273"
+       width="49.420406"
+       height="14.775476"
+       x="155.21204"
+       y="244.15965"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.70291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect11275"
+       width="49.420406"
+       height="14.775476"
+       x="155.21204"
+       y="267.20032"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.72202;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect11277"
+       width="50.535633"
+       height="14.775476"
+       x="266.10233"
+       y="267.57605"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.72202;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect12529"
+       width="50.535633"
+       height="14.775476"
+       x="266.10233"
+       y="244.53537"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:4.22047;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect12531"
+       width="119.01869"
+       height="37.68504"
+       x="5.0568457"
+       y="153.68974"
+       ry="3.7054672" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.14025;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect12533"
+       width="78.064087"
+       height="14.775476"
+       x="5.3833699"
+       y="134.43983"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.66145;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect12535"
+       width="47.043251"
+       height="14.775476"
+       x="163.58682"
+       y="112.8654"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:2.54172;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect12537"
+       width="64.701935"
+       height="25.142027"
+       x="154.75748"
+       y="83.791389"
+       ry="2.472147" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#fff9ec;fill-opacity:1;stroke:#fb6376;stroke-width:1.5566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect12539"
+       width="48.265541"
+       height="12.640866"
+       x="98.548737"
+       y="122.56156"
+       ry="5.5289559" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#fff9ec;fill-opacity:1;stroke:#fb6376;stroke-width:1.69422;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect13145"
+       width="57.80677"
+       height="12.503243"
+       x="17.303505"
+       y="215.66177"
+       ry="5.468761" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#fb6376;stroke-width:1.69422;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect13147"
+       width="57.80677"
+       height="12.503243"
+       x="206.68973"
+       y="269.21472"
+       ry="5.468761" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#fff9ec;fill-opacity:1;stroke:#fb6376;stroke-width:1.88435;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect13149"
+       width="72.613144"
+       height="12.313117"
+       x="431.76865"
+       y="268.72049"
+       ry="5.385602" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:2.265;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 308.60279,134.06821 c 26.26246,10.27771 38.58567,-1.86334 54.48311,0.22247"
+       id="path1072"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#ffdccc;fill-opacity:1;stroke:none;stroke-width:1.94849;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect4832"
+       width="64.701935"
+       height="14.775476"
+       x="438.19406"
+       y="86.951012"
+       ry="1.4528323" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#fcb1a6;fill-opacity:1;stroke-width:2.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7039"
+       width="62.084583"
+       height="20.807215"
+       x="260.32785"
+       y="196.65038"
+       ry="2.8644247" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:2.265;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 297.37821,159.12978 c 51.80576,-17.74575 92.5568,-0.31734 128.99366,0.0516"
+       id="path8935"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:2.265;stroke-opacity:1;marker-end:url(#TriangleStart);marker-start:url(#Dot)"
+       d="M 249.48307,105.18749 C 226.77535,101.6939 211.18994,51.886696 182.86641,50.291992"
+       id="path9744"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:2.265;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 235.27655,120.03085 c -8.33944,-1.6417 -12.19708,28.87651 -22.36402,28.33518"
+       id="path9750"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:2.265;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 248.1178,138.87815 c -2.53415,8.07254 -26.84594,7.23889 -37.5577,26.13825"
+       id="path9754"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:2.265;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 225.5662,177.91728 c -11.43785,19.25767 -95.60615,3.49606 -98.02432,18.22399"
+       id="path10103"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:2.265;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 245.35083,182.88665 c -2.53415,8.07254 -12.13464,24.52391 -32.28299,23.63999"
+       id="path10107"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:2.265;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 265.93866,182.49917 c -14.47734,1.31154 -20.0942,24.66035 -8.74396,24.78456"
+       id="path10115"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="M 113.5248,56.282811 C 90.817079,52.789221 67.978146,51.457703 64.139724,38.114012"
+       id="path10391"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 180.00675,44.364549 c 11.42189,1.68413 11.10266,-7.945902 7.73446,-10.075501"
+       id="path10513"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 145.31989,175.24558 c -7.11168,0.57778 -10.24259,-5.05153 -19.76825,-5.72626"
+       id="path12264"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 429.59942,137.85458 c 8.18608,-17.22785 5.4681,-26.84785 -2.73191,-31.10361"
+       id="path13742"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="M 394.26022,124.35222 C 370.06287,109.7395 328.58317,107.52464 325.07212,94.023245"
+       id="path13748"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="M 362.99163,125.84843 C 351.27624,102.91767 255.27165,94.413801 254.32148,72.041491"
+       id="path13754"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="M 316.14292,79.081916 C 305.26195,72.569714 295.64125,74.499874 294.6548,68.911174"
+       id="path13788"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 321.34103,78.886888 c 3.31443,-2.465263 41.969,-0.794984 48.7622,-8.747384"
+       id="path13794"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 382.3864,46.910959 c -1.07339,-7.060498 8.43778,-11.613414 15.26832,-16.775668"
+       id="path14191"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 398.23126,83.295602 c 64.13517,-1.91722 11.59603,-52.276614 60.84807,-52.995688"
+       id="path14967"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="M 427.59909,87.947642 C 433.80804,108.8091 451.4182,108.956 457.63836,102.70726"
+       id="path14987"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 427.34239,100.05706 c 8.66936,0.15782 8.71488,10.03315 12.90426,12.76633"
+       id="path15007"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 391.28817,170.16691 c 8.66936,0.15782 25.44933,16.13632 37.92459,15.84999"
+       id="path17361"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 390.63374,270.39008 c 8.66936,0.15782 26.03786,-33.49101 38.51312,-33.77734"
+       id="path17371"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 402.19047,236.88964 c 8.66936,0.15782 14.54703,-42.88634 27.02229,-43.17267"
+       id="path17377"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 402.19047,231.14917 c 8.66936,0.15782 14.48113,-2.31635 26.95639,-2.60268"
+       id="path17383"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 383.75239,202.13648 c 8.66936,0.15782 32.98511,-11.98321 45.46037,-12.26954"
+       id="path17389"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#fb6376;stroke-width:0.96864;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#TriangleStart)"
+       d="m 383.75239,196.65257 c 8.66936,0.15782 32.91921,36.21338 45.39447,35.92705"
+       id="path17395"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="font-variation-settings:'wght' 400;opacity:1;vector-effect:none;fill:#fff9ec;fill-opacity:1;stroke:#fb6376;stroke-width:1.97067;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.823529;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect17863"
+       width="79.979019"
+       height="12.226795"
+       x="424.35962"
+       y="247.82173"
+       ry="5.347846" />
+  </g>
+  <g
+     inkscape:label="Letras"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-22.224541,-74.055148)"
+       id="text3020"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Galada;-inkscape-font-specification:'Galada, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect3022);shape-padding:69.0513;display:inline;fill:#fb6376;fill-opacity:1;stroke-width:8.56063"><tspan
+         x="1024.7686"
+         y="725.67419"
+         id="tspan18240">Cultura </tspan><tspan
+         x="953.57858"
+         y="784.00757"
+         id="tspan18242">organizacional</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:1.28205"
+       x="178.65083"
+       y="176.73244"
+       id="text3188"><tspan
+         sodipodi:role="line"
+         id="tspan3186"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#5d2a42;fill-opacity:1;stroke-width:1.28205"
+         x="178.65083"
+         y="176.73244">Se expresa en</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="19.392496"
+       y="186.12546"
+       id="text3192"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="19.392496"
+         y="186.12546"
+         id="tspan3194">Valores</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="25.02371"
+       y="161.9541"
+       id="text3250"><tspan
+         sodipodi:role="line"
+         id="tspan3248"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="25.02371"
+         y="161.9541">Emociones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="87.705391"
+       y="177.96144"
+       id="text3254"><tspan
+         sodipodi:role="line"
+         id="tspan3252"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="87.705391"
+         y="177.96144">Comportamientos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="93.36747"
+       y="163.50229"
+       id="text3258"><tspan
+         sodipodi:role="line"
+         id="tspan3256"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="93.36747"
+         y="163.50229">Actitudes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="65.320015"
+       y="189.14641"
+       id="text3262"><tspan
+         sodipodi:role="line"
+         id="tspan3260"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="65.320015"
+         y="189.14641">Conocimientos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="30.737846"
+       y="174.84764"
+       id="text3266"><tspan
+         sodipodi:role="line"
+         id="tspan3264"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="30.737846"
+         y="174.84764">Creencias</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="395.06003"
+       y="139.70734"
+       id="text3270"><tspan
+         sodipodi:role="line"
+         id="tspan3268"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="395.06003"
+         y="139.70734">Dimensiones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:85.1637;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="299.59967"
+       y="29.476397"
+       id="text3345"
+       transform="translate(-112.41159,63.936046)"><tspan
+         x="299.59967"
+         y="29.476397"
+         id="tspan18244">No tiene una sola<tspan
+   y="29.476397"
+   id="tspan18246"> </tspan></tspan><tspan
+         x="299.59967"
+         y="40.500697"
+         id="tspan18248">definición</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="182.94267"
+       y="120.7434"
+       id="text3349"><tspan
+         sodipodi:role="line"
+         id="tspan3347"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="182.94267"
+         y="120.7434">Polisémica</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:123.328;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="382.33331"
+       y="63.906666"
+       id="text3353"
+       transform="translate(-338.07102,79.931739)"><tspan
+         x="382.33331"
+         y="63.906666"
+         id="tspan18250">Definición operativa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="148.10229"
+       y="48.127571"
+       id="text3357"><tspan
+         sodipodi:role="line"
+         id="tspan3355"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="148.10229"
+         y="48.127571">Historia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="22.730652"
+       y="14.591493"
+       id="text3361"><tspan
+         sodipodi:role="line"
+         id="tspan3359"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="22.730652"
+         y="14.591493">Fordismo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="78.566643"
+       y="13.409687"
+       id="text3365"><tspan
+         sodipodi:role="line"
+         id="tspan3363"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="78.566643"
+         y="13.409687">Taylorismo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:69.4115;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="17.4498"
+       y="65.410484"
+       id="text3369"
+       transform="translate(35.291245,-34.894068)"><tspan
+         x="17.4498"
+         y="65.410484"
+         id="tspan18252">Objetivo y racional</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="134.05617"
+       y="13.431736"
+       id="text3373"><tspan
+         sodipodi:role="line"
+         id="tspan3371"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="134.05617"
+         y="13.431736">Sociología</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="188.08875"
+       y="13.431736"
+       id="text3377"><tspan
+         sodipodi:role="line"
+         id="tspan3375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="188.08875"
+         y="13.431736">Psicología</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:74.9276;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="35.661053"
+       y="120.17709"
+       id="text3381"
+       transform="translate(112.63204,-89.660678)"><tspan
+         x="35.661053"
+         y="120.17709"
+         id="tspan18254">Humano y subjetivo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;text-align:center;text-anchor:middle;white-space:pre;inline-size:87.4986;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="382.33331"
+       y="63.906666"
+       id="text3523"
+       transform="translate(-203.46081,83.475081)"><tspan
+         x="382.33331"
+         y="63.906666"
+         id="tspan18256">Definición</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:59.9167;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="335.853"
+       y="171.28215"
+       id="text3619"
+       transform="translate(-19.580383,-82.987673)"><tspan
+         x="335.853"
+         y="171.28215"
+         id="tspan18258">Rango teórico</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:63.7743;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="324.83524"
+       y="217.13606"
+       id="text3623"
+       transform="translate(-4.0400513,-162.34771)"><tspan
+         x="324.83524"
+         y="217.13606"
+         id="tspan18260">Perspectiva<tspan
+   y="217.13606"
+   id="tspan18262"> </tspan></tspan><tspan
+         x="324.83524"
+         y="228.16036"
+         id="tspan18264">administrativa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:158.86;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="392.79453"
+       y="190.12236"
+       id="text3627"
+       transform="translate(-73.983673,-157.28679)"><tspan
+         x="392.79453"
+         y="190.12236"
+         id="tspan18266">Variable</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="322.71176"
+       y="13.952083"
+       id="text3631"><tspan
+         sodipodi:role="line"
+         id="tspan3629"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="322.71176"
+         y="13.952083">interna/externa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:46.8231;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="411.47836"
+       y="205.65309"
+       id="text3635"
+       transform="translate(-16.638837,-151.70462)"><tspan
+         x="411.47836"
+         y="205.65309"
+         id="tspan18268">Perspectiva<tspan
+   y="205.65309"
+   id="tspan18270"> </tspan></tspan><tspan
+         x="411.47836"
+         y="216.67739"
+         id="tspan18272">humana</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:81.7937;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="443.98758"
+       y="244.91914"
+       id="text3639"
+       transform="translate(-49.147626,-231.02703)"><tspan
+         x="443.98758"
+         y="244.91914"
+         id="tspan18274">Personalidad de la<tspan
+   y="244.91914"
+   id="tspan18276"> </tspan></tspan><tspan
+         x="443.98758"
+         y="255.94344"
+         id="tspan18278">empresa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:83.4676;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="407.27487"
+       y="170.18614"
+       id="text3643"
+       transform="translate(-12.326386,-77.916654)"><tspan
+         x="407.27487"
+         y="170.18614"
+         id="tspan18280">Grado de<tspan
+   y="170.18614"
+   id="tspan18282"> </tspan></tspan><tspan
+         x="407.27487"
+         y="181.21044"
+         id="tspan18284">diversificación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="482.72229"
+       y="32.534374"
+       id="text3647"><tspan
+         sodipodi:role="line"
+         id="tspan3645"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="482.72229"
+         y="32.534374">Integración</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="474.31943"
+       y="13.810465"
+       id="text3651"><tspan
+         sodipodi:role="line"
+         id="tspan3649"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="474.31943"
+         y="13.810465">Una sola cultura</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="477.15369"
+       y="96.812309"
+       id="text3655"><tspan
+         sodipodi:role="line"
+         id="tspan3653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="477.15369"
+         y="96.812309">Diferenciación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:74.0791;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="400.24222"
+       y="122.01568"
+       id="text3659"
+       transform="translate(70.86937,-72.311969)"><tspan
+         x="400.24222"
+         y="122.01568"
+         id="tspan18286">Varias subculturas<tspan
+   y="122.01568"
+   id="tspan18288"> </tspan></tspan><tspan
+         x="400.24222"
+         y="133.03998"
+         id="tspan18290">que negocian una<tspan
+   y="133.03998"
+   id="tspan18292"> </tspan></tspan><tspan
+         x="400.24222"
+         y="144.06429"
+         id="tspan18294">jerarquía.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="476.72949"
+       y="121.0096"
+       id="text3663"><tspan
+         sodipodi:role="line"
+         id="tspan3661"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="476.72949"
+         y="121.0096">Fragmentación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="475.58737"
+       y="143.86545"
+       id="text3667"><tspan
+         sodipodi:role="line"
+         id="tspan3665"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="475.58737"
+         y="143.86545">Cultura líquida.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3472px;font-family:Galada;-inkscape-font-specification:'Galada, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:104.77;display:inline;fill:#fb6376;fill-opacity:1;stroke-width:2.265"
+       x="378.95627"
+       y="120.12091"
+       id="text3983"
+       transform="translate(-111.9799,40.254252)"><tspan
+         x="378.95627"
+         y="120.12091"
+         id="tspan18296">Cambio<tspan
+   y="120.12091"
+   id="tspan18298"> </tspan></tspan><tspan
+         x="378.95627"
+         y="135.55491"
+         id="tspan18300">organizacional</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Galada;-inkscape-font-specification:'Galada, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#3a445d;fill-opacity:1;stroke-width:2.265"
+       x="396.92456"
+       y="90.758682"
+       id="text4115"><tspan
+         sodipodi:role="line"
+         id="tspan4113"
+         style="fill:#3a445d;fill-opacity:1;stroke-width:2.265"
+         x="396.92456"
+         y="90.758682" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-398.66743,127.18486)"
+       id="text4117"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;white-space:pre;shape-inside:url(#rect4119);display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:8.56063"><tspan
+         x="1550.9749"
+         y="413.7212"
+         id="tspan18302">Herramienta útil que las organizaciones </tspan><tspan
+         x="1540.9776"
+         y="447.05457"
+         id="tspan18304">emplean para responder a los ajustes en el </tspan><tspan
+         x="1545.3615"
+         y="480.38795"
+         id="tspan18306">entorno, enfrentar amenazas o encontrar </tspan><tspan
+         x="1559.399"
+         y="513.72132"
+         id="tspan18308">oportunidades para lograr una ventaja </tspan><tspan
+         x="1692.3378"
+         y="547.0547"
+         id="tspan18310">competitiva.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:1.28205"
+       x="469.83826"
+       y="213.16423"
+       id="text4280"><tspan
+         sodipodi:role="line"
+         id="tspan4278"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:1.28205"
+         x="469.83826"
+         y="213.16423">Reacción cognitiva</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#fb6376;fill-opacity:1;stroke-width:1.28205"
+       x="235.57106"
+       y="277.85956"
+       id="text4284"><tspan
+         sodipodi:role="line"
+         id="tspan4282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fb6376;fill-opacity:1;stroke-width:1.28205"
+         x="235.57106"
+         y="277.85956">Piderit, 2000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#fb6376;fill-opacity:1;stroke-width:1.28205"
+       x="46.383282"
+       y="223.87447"
+       id="text4288"><tspan
+         sodipodi:role="line"
+         id="tspan4286"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fb6376;fill-opacity:1;stroke-width:1.28205"
+         x="46.383282"
+         y="223.87447">Van Dam, 2018</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="291.1824"
+       y="254.6395"
+       id="text4292"><tspan
+         sodipodi:role="line"
+         id="tspan4290"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="291.1824"
+         y="254.6395">Resistencia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="291.37643"
+       y="278.10352"
+       id="text4296"><tspan
+         sodipodi:role="line"
+         id="tspan4294"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="291.37643"
+         y="278.10352">Ambivalencia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="291.23785"
+       y="233.48898"
+       id="text4300"><tspan
+         sodipodi:role="line"
+         id="tspan4298"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="291.23785"
+         y="233.48898">Cooperación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:1.28205"
+       x="291.95096"
+       y="210.15204"
+       id="text4304"><tspan
+         sodipodi:role="line"
+         id="tspan4302"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#5d2a42;fill-opacity:1;stroke-width:1.28205"
+         x="291.95096"
+         y="210.15204">Reacciones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="330.90762"
+       y="201.82327"
+       id="text4308"><tspan
+         sodipodi:role="line"
+         id="tspan4306"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="330.90762"
+         y="201.82327">Anticipación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="330.48428"
+       y="168.41779"
+       id="text4316"><tspan
+         sodipodi:role="line"
+         id="tspan4314"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="330.48428"
+         y="168.41779">Presión de grupo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;white-space:pre;inline-size:55.4434;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="427.95901"
+       y="264.95505"
+       id="text4320"
+       transform="translate(-97.479747,1.6960075)"><tspan
+         x="427.95901"
+         y="264.95505"
+         id="tspan18312">Preparación </tspan><tspan
+         x="427.95901"
+         y="275.97933"
+         id="tspan18314">organizacional</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="330.51956"
+       y="234.73474"
+       id="text4324"><tspan
+         sodipodi:role="line"
+         id="tspan4322"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="330.51956"
+         y="234.73474">Experiencias previas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#fb6376;fill-opacity:1;stroke-width:1.28205"
+       x="468.0708"
+       y="276.86142"
+       id="text4927"><tspan
+         sodipodi:role="line"
+         id="tspan4925"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fb6376;fill-opacity:1;stroke-width:1.28205"
+         x="468.0708"
+         y="276.86142">Marques et al 2018</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:1.28205"
+       x="468.14993"
+       y="235.87039"
+       id="text4931"><tspan
+         sodipodi:role="line"
+         id="tspan4929"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:1.28205"
+         x="468.14993"
+         y="235.87039">Reacción emocional</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:1.28205"
+       x="466.74768"
+       y="192.83052"
+       id="text4935"><tspan
+         sodipodi:role="line"
+         id="tspan4933"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:1.28205"
+         x="466.74768"
+         y="192.83052">Reacción conductual</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="178.90218"
+       y="255.29007"
+       id="text4939"><tspan
+         sodipodi:role="line"
+         id="tspan4937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="178.90218"
+         y="255.29007">Emocional</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="178.8669"
+       y="275.8223"
+       id="text4943"><tspan
+         sodipodi:role="line"
+         id="tspan4941"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="178.8669"
+         y="275.8223">Conductual</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="178.72328"
+       y="232.38542"
+       id="text4947"><tspan
+         sodipodi:role="line"
+         id="tspan4945"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="178.72328"
+         y="232.38542">Cognitiva</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:1.28205"
+       x="178.98332"
+       y="210.94469"
+       id="text4951"><tspan
+         sodipodi:role="line"
+         id="tspan4949"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#5d2a42;fill-opacity:1;stroke-width:1.28205"
+         x="178.98332"
+         y="210.94469">Dimensiones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Galada;-inkscape-font-specification:'Galada, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#3a445d;fill-opacity:1;stroke-width:2.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="214.44168"
+       y="24.692604"
+       id="text5444"><tspan
+         sodipodi:role="line"
+         id="tspan5442"
+         style="fill:#3a445d;fill-opacity:1;stroke-width:2.265"
+         x="214.44168"
+         y="24.692604" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:normal;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=400';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:pre;inline-size:137.021;display:inline;opacity:1;vector-effect:none;fill:#5d2a42;fill-opacity:1;stroke-width:2.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="278.41962"
+       y="131.81049"
+       id="text5448"
+       transform="translate(-199.39303,-59.592018)"><tspan
+         x="278.41962"
+         y="131.81049"
+         id="tspan18316">Un modelo de presunciones básicas -inventadas o<tspan
+   y="131.81049"
+   id="tspan18318"> </tspan></tspan><tspan
+         x="278.41962"
+         y="140.62994"
+         id="tspan18320">descubiertas por una organización para resolver<tspan
+   y="140.62994"
+   id="tspan18322"> </tspan></tspan><tspan
+         x="278.41962"
+         y="149.4494"
+         id="tspan18324">sus problemas– que ejercen influencia como para<tspan
+   y="149.4494"
+   id="tspan18326"> </tspan></tspan><tspan
+         x="278.41962"
+         y="158.26886"
+         id="tspan18328">ser consideradas válidas y, en consecuencia, ser<tspan
+   y="158.26886"
+   id="tspan18330"> </tspan></tspan><tspan
+         x="278.41962"
+         y="167.08832"
+         id="tspan18332">enseñadas a los nuevos miembros como el modo<tspan
+   y="167.08832"
+   id="tspan18334"> </tspan></tspan><tspan
+         x="278.41962"
+         y="175.90777"
+         id="tspan18336">correcto de percibir, pensar y sentir tales<tspan
+   y="175.90777"
+   id="tspan18338"> </tspan></tspan><tspan
+         x="278.41962"
+         y="184.72723"
+         id="tspan18340">problemas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#fb6376;fill-opacity:1;stroke-width:1.28205"
+       x="122.88995"
+       y="130.86562"
+       id="text5456"><tspan
+         sodipodi:role="line"
+         id="tspan5454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fb6376;fill-opacity:1;stroke-width:1.28205"
+         x="122.88995"
+         y="130.86562">Schein 1999</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;line-height:normal;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:pre;inline-size:70.2435;display:inline;opacity:1;vector-effect:none;fill:#5d2a42;fill-opacity:1;stroke-width:2.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="214.69391"
+       y="32.933479"
+       id="text5460"
+       transform="translate(36.484797,23.438033)"><tspan
+         x="214.69391"
+         y="32.933479"
+         id="tspan18342">Dependencia del<tspan
+   y="32.933479"
+   id="tspan18344"> </tspan></tspan><tspan
+         x="214.69391"
+         y="43.957782"
+         id="tspan18346">entorno</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;line-height:normal;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;opacity:1;vector-effect:none;fill:#5d2a42;fill-opacity:1;stroke-width:2.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="251.90211"
+       y="13.436146"
+       id="text5464"><tspan
+         sodipodi:role="line"
+         id="tspan5462"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="251.90211"
+         y="13.436146">Alta dependencia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;line-height:normal;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;opacity:1;vector-effect:none;fill:#5d2a42;fill-opacity:1;stroke-width:2.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="252.72624"
+       y="30.701967"
+       id="text5468"><tspan
+         sodipodi:role="line"
+         id="tspan5466"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="252.72624"
+         y="30.701967">Baja dependencia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;text-align:center;text-anchor:middle;white-space:pre;inline-size:87.4986;display:inline;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="382.33331"
+       y="63.906666"
+       id="text6356"
+       transform="translate(-275.80973,147.58835)"><tspan
+         x="382.33331"
+         y="63.906666"
+         id="tspan18348">Definición</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;text-align:center;text-anchor:middle;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+       x="468.48694"
+       y="167.94801"
+       id="text6666"><tspan
+         sodipodi:role="line"
+         id="tspan6664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#5d2a42;fill-opacity:1;stroke-width:2.265"
+         x="468.48694"
+         y="167.94801">Funcionamiento</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#fb6376;fill-opacity:1;stroke-width:1.28205"
+       x="464.32266"
+       y="255.54027"
+       id="text17867"><tspan
+         sodipodi:role="line"
+         id="tspan17865"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Cormorant;-inkscape-font-specification:'Cormorant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fb6376;fill-opacity:1;stroke-width:1.28205"
+         x="464.32266"
+         y="255.54027">Borges &amp; Amaro 2020</tspan></text>
+  </g>
+</svg>
