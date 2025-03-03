@@ -1,5 +1,6 @@
 Soy científico de datos, profesional en estadística y magíster en ciencias. Cuento con una trayectoria de más de 15 años en proyectos y cargos asociados a procesos de analítica y ciencia de datos. Mi perfil contempla desde docencia universitaria y liderazgo de programas de capacitación, hasta ejecución proyectos de base tecnológica. Esta experiencia me ha permitido desarrollar diferentes competencias, como la orientación al valor en toma de decisiones, la conformación y desarrollo de equipos de alto desempeño y la negociación integradora.
 
+
 ## Habilidades
 
  - Automatización de procesos en lenguajes de programación y creación de servicios periódicos. Ajuste de modelos de machine learning, data mining y data science en general. Estandarización, sistematización, automatización y socialización de procesos. Automatización de tableros de control y sistemas de información gerencial.
