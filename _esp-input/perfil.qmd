@@ -1,1 +1,11 @@
-Soy científico de datos, profesional en estadística y magíster en ciencias. Cuento con más de 12 años de experiencia demostrada en analítica y ciencia de datos. Mi perfil contempla desde docencia universitaria y liderazgo de programas de capacitación, hasta ejecución proyectos de base tecnológica. Esta experiencia me ha permitido desarrollar diferentes competencias, como la orientación al valor en toma de decisiones, la conformación y desarrollo de equipos de alto desempeño y la negociación integradora.
+Soy científico de datos, profesional en estadística y magíster en ciencias. Cuento con una trayectoria de más de 15 años en proyectos y cargos asociados a procesos de analítica y ciencia de datos. Mi perfil contempla desde docencia universitaria y liderazgo de programas de capacitación, hasta ejecución proyectos de base tecnológica. Esta experiencia me ha permitido desarrollar diferentes competencias, como la orientación al valor en toma de decisiones, la conformación y desarrollo de equipos de alto desempeño y la negociación integradora.
+
+## Habilidades
+
+ - Automatización de procesos en lenguajes de programación y creación de servicios periódicos. Ajuste de modelos de machine learning, data mining y data science en general. Estandarización, sistematización, automatización y socialización de procesos. Automatización de tableros de control y sistemas de información gerencial.
+ 
+ - Liderazgo de equipos de alto desempeño. Ejecución de proyectos informáticos orientados a flujos de datos. Implementación de metodologías ágiles. Medición y seguimiento de entregables. Generación de acuerdos y compromisos entre colaboradores.
+ 
+ - Dirección científica en investigación. Estandarización de procesos de investigación. Gestión de proyectos de investigación con resultados medibles y generación de impacto. Generación de conversaciones y compromisos por parte de investigadores principales y asociados.
+ 
+ - Propuesta y ejecución de proyectos de sensibilización, capacitación y gestión del cambio en torno a flujos de datos. Direccionamiento en programas de educación formal y no formal. Estructuración de contenidos y autoría de materiales académicos.

@@ -28,17 +28,7 @@ title: "Formación"
  
  - Básico: PHP, LaTeX, Java, C++.
  
- 
-## Habilidades
 
- - Automatización de procesos en lenguajes de programación y creación de servicios periódicos. Ajuste de modelos de machine learning, data mining y data science en general. Estandarización, sistematización, automatización y socialización de procesos. Automatización de tableros de control y sistemas de información gerencial.
- 
- - Liderazgo de equipos de alto desempeño. Ejecución de proyectos informáticos orientados a flujos de datos. Implementación de metodologías ágiles. Medición y seguimiento de entregables. Generación de acuerdos y compromisos entre colaboradores.
- 
- - Dirección científica en investigación. Estandarización de procesos de investigación. Gestión de proyectos de investigación con resultados medibles y generación de impacto. Generación de conversaciones y compromisos por parte de investigadores principales y asociados.
- 
- - Propuesta y ejecución de proyectos de sensibilización, capacitación y gestión del cambio en torno a flujos de datos. Direccionamiento en programas de educación formal y no formal. Estructuración de contenidos y autoría de materiales académicos.
- 
 ## Manejo de idiomas
 
  - Inglés: B1 (Examen de Estado de Calidad de la Educación Superior, Saber Pro 2013)
