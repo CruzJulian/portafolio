@@ -22,9 +22,9 @@ title: "Formación"
 
 ## Manejo de tecnologías
 
- - Avanzado: Python, Linux.
+ - Avanzado: Linux, R.
  
- - Estándar: R, SQL, JSON, Linux, Docker, GCP, Bash.
+ - Estándar: Python, SQL, JSON, Linux, Docker, GCP, Bash.
  
  - Básico: PHP, LaTeX, Java, C++.
  
@@ -49,9 +49,12 @@ title: "Formación"
 
 ## Publicaciones
 
-- [Institutionalization of corporate bribery: a measurement proposal with evidence from a Latin American sample](https://www.emerald.com/insight/content/doi/10.1108/ARLA-04-2022-0099/full/html?utm_source=smc_email_onboarding&utm_medium=email&utm_campaign=apa_author_journals_access_2023-6-14){target="_blank"}, con Gustavo Yepes, José Luis Camarena y otros. Emerald Insight. 2023.
-- [Chapter 10: Who Pays for Corporate Social Responsibility?: Proposal for an Externalization Index of CSR Costs](https://link.springer.com/book/10.1007/978-3-031-10437-4){target="_blank"}, con Gustavo Yepes y José Luis Camarena. Springer. 2023.
-- [Capítulo 4: El modelo pentadimensional aplicado a las empresas de Bogotá, Colombia](https://bdigital.uexternado.edu.co/server/api/core/bitstreams/bbf36c2b-9e0f-4f0d-a7a7-dff7b94777cc/content){target="_blank"}, con Gustavo Yepes, Carlos Bello y José Luis Camarena. Universidad Externado de Colombia. 2021.
+- [Does CSR Contribute to Sustainable Development? Characterization of CSR in Colombian Companies](https://link.springer.com/chapter/10.1007/978-3-031-81469-3_4){target="_blank"}, en [Integrating Environmental Sustainability and Corporate Social Responsibility: A Move Beyond Profit](https://link.springer.com/book/10.1007/978-3-031-81469-3){target="_blank"}, con Gustavo Yepes y José Luis Camarena. Springer. 2025.
+- [Are Firms Strategically Engaging in CSR? An Exploratory Study of SCSR Dimensions in an Emerging Market](https://link.springer.com/chapter/10.1007/978-3-031-81469-3_6){target="_blank"}, en [Integrating Environmental Sustainability and Corporate Social Responsibility: A Move Beyond Profit](https://link.springer.com/book/10.1007/978-3-031-81469-3){target="_blank"}, con Gustavo Yepes y José Luis Camarena. Springer. 2025.
+- [Is corporate bribery institutionalized in Latin America? Evidence from a comparative study in seven countries](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003427933-6/corporate-bribery-institutionalized-latin-america-gustavo-yepes-l%C3%B3pez-jose-luis-camarena-juli%C3%A1n-mauricio-cruz-pulido-luz-jeannette-quintero-campos){target="_blank"}, en [Organizational Corruption, Crime and Covid-19](https://www.taylorfrancis.com/books/edit/10.4324/9781003427933/organizational-corruption-crime-covid-19-agata-stachowicz-stanusch-wolfgang-amann-christian-hauser-matthias-kleinhempel-shiv-tripathi){target="_blank"}, con Gustavo Yepes, José Luis Camarena y otros. Tailor & Francis Group. 2024.
+- [Institutionalization of corporate bribery: a measurement proposal with evidence from a Latin American sample](https://www.emerald.com/insight/content/doi/10.1108/arla-04-2022-0099/full/html/){target="_blank"}, en [Academia  Revista Latinoamericana de Administración](https://www.emerald.com/insight/publication/issn/1012-8255){target="_blank"} con Gustavo Yepes, José Luis Camarena y otros. Emerald Insight. 2023.
+- [Who Pays for Corporate Social Responsibility?: Proposal for an Externalization Index of CSR Costs](https://link.springer.com/chapter/10.1007/978-3-031-10437-4_10){target="_blank"}, en [The Route Towards Global Sustainability](https://link.springer.com/book/10.1007/978-3-031-10437-4){target="_blank"} con Gustavo Yepes y José Luis Camarena. Springer. 2023.
+- [El modelo pentadimensional aplicado a las empresas de Bogotá, Colombia](https://bdigital.uexternado.edu.co/server/api/core/bitstreams/bbf36c2b-9e0f-4f0d-a7a7-dff7b94777cc/content), en [Sostenibilidad en las pymes de América Latina y el Caribe](https://publicaciones.uexternado.edu.co/gpd-sostenibilidad-en-las-pymes-de-america-latina-y-el-caribe-9789587906561.html){target="_blank"} con Gustavo Yepes, Carlos Bello y José Luis Camarena. Universidad Externado de Colombia. 2021.
  - [Diferencia de logro geolocalizado en educación presencial y a distancia en Colombia](https://redie.uabc.mx/redie/article/view/3711){target="_blank"}, con Nicolás Arias y William Ricón. Revista Electrónica de Investigación educativa REDIE. 2021.
 - [Temas de investigación sobre competencias de profesores en iniciativas de actores externos en escuelas colombianas de educación básica y media](https://journal.poligran.edu.co/index.php/poliantea/article/view/2337/2209){target="_blank"}, con Nicolás Arias. Poliantea. 2021.
 - [The market segmentation of higher education in Colombia reveals social inequalities](https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2021.1877885?needAccess=true){target="_blank"}, with Frederick Mendoza. Cogent Education. 2021.
