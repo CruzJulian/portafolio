@@ -1,0 +1,58 @@
+---
+title: "Experiencia laboral"
+---
+
+***
+
+## Ministerio de las Tecnologías de la Información y las Comunicaciones
+
+**Dirección del equipo de Ciencia de Datos.** Puesta en marcha del procedimiento de analítica. Propuesta, ejecución, evaluación y retroalimentación de proyectos de Ciencia de Datos para el análisis de la información contenida en los sistemas de información de la entidad que incorporen el uso de herramientas de analítica de grandes volúmenes de información (Big Data), en cumplimiento de todo lo relacionado con las obligaciones legales, contractuales y regulatorias de las empresas prestadoras de servicios móvil, no móvil, televisión, radiodifusión sonora y postal.
+
+ - **Rol:** Jefe de Ciencia de Datos
+ - **Desde:** Agosto 2020.
+ - **Hasta:** Diciembre 2021.
+
+***
+
+## Institución Universitaria Politécnico Grancolombiano
+
+**Consultorías en procesos de datos y asesorías en investigación.** Desarrollo de modelos de minería de datos textuales y visualización interactiva de resultados; diseño metodológico y análisis estadístico para diversos estudios en educación. 
+
+ - **Rol:** Consultor especializado
+ - **Desde:** Agosto 2016.
+ - **Hasta:** Mayo 2018.
+
+
+***
+
+## Power Data SAS
+
+**Modelos de pronóstico de deserción para Claro Hogares** Planeación y direccionamiento en procesos de medición y pronóstico para el área de Analytics. Responsable de los procesos de diseño, ajuste, estimación e implementación de modelos y algoritmos de aprendizaje automático y de minería de datos.
+
+ - **Rol:** Consultor Senior
+ - **Desde:** Noviembre 2015
+ - **Hasta:** Marzo 2016
+
+***
+
+## Aseguradora de Riesgos Laborales Colmena
+
+**Asesoría estadística en salud y seguridad en el trabajo para Sanitas Internacional.** Implementación de sistemas de información, diseño de bases de datos, recolección y análisis de datos de casos médico laborales y medición de indicadores de impacto en salud ocupacional. Asesoría a 3 Sistemas de Vigilancia Epidemiológica: Psicosocial, Ergonómico y Riesgo Biológico e implementación de algoritmos de minería de datos para identificación de ausentismo frecuente.
+
+ - **Rol:** Asesor de Prevención por Proyecto
+ - **Desde:** Febrero 2014
+ - **Hasta:** Febrero 2015
+
+***
+
+## Optiláser
+
+**Asesoría estadística en investigación.** Diseño metodológico, análisis estadístico, visualización e interpretación de resultados cuantitativos en salud visual.
+
+ - **Rol:** Asesor estadístico en investigación científica.
+ - **Desde:** Junio 2011
+ - **Hasta:** Enero 2013
+
+
+***
+

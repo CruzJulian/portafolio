@@ -1,0 +1,53 @@
+---
+title: "Formación"
+---
+
+***
+
+## Educación
+
+- Especialización en Gerencia. Universidad Externado de Colombia. En curso.
+
+- M.Sc. Estadística, Tesis de grado: [Aplicación de Algoritmos de Agrupamiento a Funciones de Distribución Empírica](https://repositorio.unal.edu.co/handle/unal/64015){target="_blank"}. Universidad Nacional de Colombia. Grado en septiembre de 2018.
+
+- Estadística, Tesis de grado: Estimación Heurística de Medidas de Probabilidad Mediante Mixturas. Universidad Nacional de Colombia. Grado en mayo de 2015.
+
+- 20+ certificados [Platzi](https://platzi.com/){target="_blank"} en distintos cursos sobre desarrollo tecnológico y transformación digital en empresas. Entre otros: [Emprendimientos Sociales y Oportunidades de Negocio](https://platzi.com/p/cruz-julian/curso/2625-emprendimiento-negocio/diploma/detalle/){target="_blank"}, [Responsabilidad Social Empresarial](https://platzi.com/p/cruz-julian/curso/2501-responsabilidad-social-empresarial/diploma/detalle/){target="_blank"}, [Empredimiento Social](https://platzi.com/p/cruz-julian/curso/2785-emprendimiento-thinking/diploma/detalle/){target="_blank"}, [Introducción a la Transformacion Digital](https://platzi.com/p/cruz-julian/curso/2375-transformacion-digital/diploma/detalle/){target="_blank"}, [Business Model Canvas](https://platzi.com/p/cruz-julian/curso/1309-canvas/diploma/detalle/){target="_blank"}, [Innovación Empresarial](https://platzi.com/p/cruz-julian/curso/2674-innovacion-empresarial/diploma/detalle/){target="_blank"}, [Innovación para el Futuro y Coolhunting](https://platzi.com/p/cruz-julian/curso/1778-coolhunting/diploma/detalle/){target="_blank"}, [Modelos de Negocio](https://platzi.com/p/cruz-julian/curso/2583-modelos-negocio/diploma/detalle/){target="_blank"}, [Técnicas de Negociación](https://platzi.com/p/cruz-julian/curso/1482-tecnicas-negociacion/diploma/detalle/){target="_blank"}, [Trabajo Remoto](https://platzi.com/p/cruz-julian/curso/1872-teletrabajo-trabajo-remoto/diploma/detalle/){target="_blank"}, [Google Suite](https://platzi.com/p/cruz-julian/curso/1401-google-suite/diploma/detalle/){target="_blank"}, [Tecnología para Gerentes y Directores](https://platzi.com/p/cruz-julian/curso/1882-tecnologia-gerentes/diploma/detalle/){target="_blank"}, [Conversion Rate Optimization](https://platzi.com/p/cruz-julian/curso/8034-cro/diploma/detalle/){target="_blank"}, [Design Sprint](https://platzi.com/p/cruz-julian/curso/1702-design-sprint/diploma/detalle/){target="_blank"}, [Design Thinking](https://platzi.com/p/cruz-julian/curso/1210-design-thinking/diploma/detalle/){target="_blank"}, [Thick Data en Negocios](https://platzi.com/p/cruz-julian/curso/1928-curso-de-thick-data/diploma/detalle/){target="_blank"}, [Estadística Computacional con Python](https://platzi.com/p/cruz-julian/curso/1835-programacion-estocastica/diploma/detalle/){target="_blank"}, [Pensamiento Probabilístico](https://platzi.com/p/cruz-julian/curso/1841-probabilistica/diploma/detalle/){target="_blank"}, [Introducción a Machine Learning](https://platzi.com/p/cruz-julian/curso/2459-machine-learning/diploma/detalle/){target="_blank"}, [Visualización de Datos para Business Intelligence](https://platzi.com/p/cruz-julian/curso/2195-visualizacion-datos/diploma/detalle/){target="_blank"}, [Redes Neuronales con PyTorch](https://platzi.com/p/cruz-julian/curso/7693-pytorch/diploma/detalle/){target="_blank"}.
+
+***
+
+## Manejo de tecnologías
+
+ - Avanzado: Linux, R.
+ 
+ - Estándar: Python, SQL, JSON, Linux, Docker, GCP, Bash.
+ 
+ - Básico: PHP, LaTeX, Java, C++.
+ 
+
+## Manejo de idiomas
+
+ - Inglés: B1 (Examen de Estado de Calidad de la Educación Superior, Saber Pro 2013)
+ - Inglés: C2 ([EF SET English Certificate 72/100. C2 Proficient. Enero 2023](https://www.efset.org/cert/yMegHW){target="_blank"})
+
+***
+
+## Proyectos de aprendizaje y reconocimientos
+
+ - Dirección del diseño y desarrollo de la plataforma de investigación [Mamut](https://www.mmt-app.com/){target="_blank"}.
+ - Dirección del diseño y desarrollo de la plataforma de evaluación y formulación de estrategias en Responsabilidad Social Empresarial [3sc4l4.co](https://www.3sc4l4.co/){target="_blank"}.
+ - Paquete de R: _[Clouds](https://github.com/nebulae-co/clouds){target="_blank"}_, para la aplicación e algoritmos de agrupamiento a funciones de distribución empírica; con Daniel Moreno y Adriana Clavijo.
+ - Paquete de R: _[Saber](https://github.com/nebulae-co/saber){target="_blank"}_, para la disponibilidad de los datos de la prueba Saber 11; con Daniel Moreno y Adriana Clavijo. 
+ - Paquete de R: _[Colmaps](https://github.com/nebulae-co/colmaps){target="_blank"}_, para la elaboración de mapas de Colombia, con departamentos y municipios; con Daniel Moreno y Adriana Clavijo.
+ - _Logro Educativo en Estudiantes de Ciencias Económicas en Educación Superior Presencial y Virtual_. Proyecto ganador en la [Convocatoria ICFES 2015](https://www.icfes.gov.co/web/guest/resultados-de-investigaciones-2015){target="_blank"}, con Nicolás Arias y William Rincón.
+ - III Congreso Internacional "Estudios en Organizaciones Públicas, Privadas y Sociales en América Latina y El Caribe". Ponencia titulada: _Logro Educativo y Evidencias de sus posibles Factores Asociados en Estudiantes de Ciencias Económicas en Modalidadd Presencial y Virtual_, con Nicolás Arias y William Rincón.
+ - 25 Simposio Internacional de Estadística 2015. Ponencia titulada: _[Un micro-mapa de Colombia](http://nebulae-co.github.io/colmaps/micromapa){target="_blank"}_, con Daniel Moreno y Adriana Clavijo.
+ - 24 Simposio Internacional de Estadística 2014. Ponencia titulada: _Uso De Metaheurísticas en Estimación Nadaraya-Watson con Aplicación a Cirugía Refractiva_.
+ - 24 Simposio Internacional de Estadística 2014. Ponencia titulada: _Algoritmos de Agrupación en Diseño de Experimentos. Una Propuesta No Paramétrica_.
+ - Mejor puntaje de su carrera a nivel nacional en el examen Saber Pro en su promoción, 2013.
+ - Beca completa Universidad Nacional de Colombia por mejor puntaje de ingreso, 2009.
+ - Mejor puntaje en el examen del ICFES en su promoción y Mención Honorífica por desarrollo artístico, 2002.
+
+***
+
+
