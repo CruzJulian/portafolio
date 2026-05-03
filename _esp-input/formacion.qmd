@@ -6,9 +6,10 @@ title: "Formación"
 
 ## Educación
 
-- Especialización en Gerencia. Universidad Externado de Colombia. En curso.
 
 - M.Sc. Estadística, Tesis de grado: [Aplicación de Algoritmos de Agrupamiento a Funciones de Distribución Empírica](https://repositorio.unal.edu.co/handle/unal/64015){target="_blank"}. Universidad Nacional de Colombia. Grado en septiembre de 2018.
+
+- Especialización en Gerencia. Universidad Externado de Colombia. Grado en marzo de 2026.
 
 - Estadística, Tesis de grado: Estimación Heurística de Medidas de Probabilidad Mediante Mixturas. Universidad Nacional de Colombia. Grado en mayo de 2015.
 
@@ -28,7 +29,7 @@ title: "Formación"
 ## Manejo de idiomas
 
  - Inglés: B1 (Examen de Estado de Calidad de la Educación Superior, Saber Pro 2013)
- - Inglés: C2 ([EF SET English Certificate 72/100. C2 Proficient. Enero 2023](https://www.efset.org/cert/yMegHW){target="_blank"})
+ - Inglés: B2 ([EF SET English Certificate 72/100. C2 Proficient. Enero 2023](https://www.efset.org/cert/yMegHW){target="_blank"})
 
 ***
 

@@ -4,7 +4,7 @@ title: "Asesorías"
 
 ***
 
-Desde el año 2010 se lleva a cabo labor contínua e independiente de asesoría estadística en investigación que no se detiene en ningún momento. Este ejercicio tiene como objetivo enfrentar problemas de distintas áreas y dar respuesta desde el análisis de datos a preguntas de investigación de diversa índole.
+Desde el año 2010 se lleva a cabo labor continua e independiente de asesoría estadística en investigación que no se detiene en ningún momento. Este ejercicio tiene como objetivo enfrentar problemas de distintas áreas y dar respuesta desde el análisis de datos a preguntas de investigación de diversa índole.
 
 ***
 
@@ -57,13 +57,13 @@ Desde el año 2010 se lleva a cabo labor contínua e independiente de asesoría 
   
   - Trabajo de grado para optar título de Magister en Psicología del Consumidor. Fundación Universitaria Konrad Lorenz. 2016.
 
-**[Modelo de ciclos socio-tecnológicos para productos social y ambientalmente responsables. Caso: Corte intensivo de rosas con energía humana](https://www.tdx.cat/handle/10803/392638?locale-attribute=es){target="_blank"}**
+**[Modelo de ciclos socio-tecnológicos para productos social y ambientalmente responsables. Caso: Corte intensivo de rosas con energía humana](https://hdl.handle.net/10803/392638){target="_blank"}**
 
   - [Gabriel García Acosta.](https://www.linkedin.com/in/gabriel-garc%C3%ADa-acosta-33881153/){target="_blank"}
 
   - Trabajo de grado para optar título de Doctor en Proyectos de Innovación Tecnológica en la Ingeniería de Productos y Procesos, Universidat Politècnica de Catalunya. 2015.
 
-**La Responsabilidad Social Empresarial en Colombia: Caracterización de las Prácticas de RSE frente a la Teoría de los Costos Sociales y su Relación con el Negocio**
+**[La Responsabilidad Social Empresarial en Colombia: Caracterización de las Prácticas de RSE frente a la Teoría de los Costos Sociales y su Relación con el Negocio](https://dialnet.unirioja.es/servlet/tesis?codigo=117993){target="_blank"}**
 
   - [Gustavo Yépez.](https://www.linkedin.com/in/gustavoyepes/){target="_blank"} 
 
@@ -86,13 +86,7 @@ Desde el año 2010 se lleva a cabo labor contínua e independiente de asesoría 
 
 ### 2010 - 2014
 
-**[Una descripción matemática del recambio evolutivo de los ARNt en el género Drosophila](https://repositorio.unal.edu.co/handle/unal/73129){target="_blank"}**
-
-  - [Liliana Constanza Romero.](https://www.linkedin.com/in/liliana-constanza-romero/){target="_blank"}
-
-  - Trabajo de grado para optar el título de Magister en Ciencias - Matemática Aplicada, Universidad Nacional de Colombia. 2014.
-
-**[Refracción en lactantes de 6 a 12 meses  usando la técnica no ciclopégica y ciclopégica con  tropicamida al 1% ciclopentolato al 1%, estudio realizado en bogotá 2012-2014](https://ciencia.lasalle.edu.co/cgi/viewcontent.cgi?article=1043&context=maest_ciencias_vision){target="_blank"}**
+**[Refracción en lactantes de 6 a 12 meses  usando la técnica no ciclopégica y ciclopégica con  tropicamida al 1% ciclopentolato al 1%, estudio realizado en bogotá 2012-2014](https://ciencia.lasalle.edu.co/server/api/core/bitstreams/72ecd778-17a7-4f1e-9bce-b3edf93b3e87/content){target="_blank"}**
 
   - Natali Gutierrez.
 
@@ -104,13 +98,13 @@ Desde el año 2010 se lleva a cabo labor contínua e independiente de asesoría 
 
   - Trabajo de grado para optar el título de PhD en Ciencias - Biología, Universidad Nacional de Colombia. 2013.
 
-**Hallazgos acelerométricos  antes, durante y después de la exposición a etanol en pacientes con temblor esencial**
+**[Hallazgos acelerométricos  antes, durante y después de la exposición a etanol en pacientes con temblor esencial](https://repositorio.unal.edu.co/bitstreams/bcebc8ab-01ee-44b0-8de9-00a333bd0f36/download){target="_blank"}**
 
   - Lorena Arroyo.
 
   - Trabajo de grado para optar el título de Magister en Neurocioencias, Universidad Nacional de Colombia. Tesis meritoria. 2013.
 
-**Cambios en la sintomatología, película lagrimal y superficie ocular  después del tratamiento con ciclosporina al 1% y carboximetilcelulosa 0.5%, en el síndrome de ojo seco  moderado y severo**
+**[Cambios en la sintomatología, película lagrimal y superficie ocular  después del tratamiento con ciclosporina al 1% y carboximetilcelulosa 0.5%, en el síndrome de ojo seco  moderado y severo](https://saludvisual.lasalle.edu.co/article/download/1519/1590/1483){target="_blank"}**
 
   - Alejandra Mendivelso Suárez.
 
@@ -122,15 +116,15 @@ Desde el año 2010 se lleva a cabo labor contínua e independiente de asesoría 
 
   - Tesis presentada como requisito para optar al título de Magister en Enfermería. Universidad Nacional de Colombia. 2012.
 
-**Infección de vías urinarias: estudio costo-enfermedad y caracterización demográfica en una clínica de tercer nivel en Chía, Colombia**
+**[Infección de vías urinarias: estudio costo-enfermedad y caracterización demográfica en una clínica de tercer nivel en Chía, Colombia](https://intellectum.unisabana.edu.co/server/api/core/bitstreams/7bdf9f5f-a537-52b7-e053-7e0910accd73/content){target="_blank"}**
 
   - Hernando Andrés Olaya MD. y Mauricio Hernández Quintana MD.
 
   - Tesis de Maestría en Farmacología presentada en la Universidad de la Sabana. 2011.
 
-**[Evaluación de las aberraciones corneales y oculares mediante el índice RMS de alto orden con dos lentes de contacto blandos asfericos en pacientes con astigmatismo miópico bajo](https://docplayer.es/docview/70/63889504/#file=/storage/70/63889504/63889504.pdf){target="_blank"}**
+**Evaluación de las aberraciones corneales y oculares mediante el índice RMS de alto orden con dos lentes de contacto blandos asfericos en pacientes con astigmatismo miópico bajo**
 
-  - Elizabeth Suarez Piscotti y Natali Rodriguez.
+  - Elizabeth Suarez Piscotti y Natali Gutierrez.
 
   - Tesis de pregrado en Optometría presentada en la Universidad de la Salle. 2011.
 

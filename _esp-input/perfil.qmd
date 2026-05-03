@@ -1,5 +1,11 @@
-Soy científico de datos, profesional en estadística y magíster en ciencias. Cuento con una trayectoria de más de 15 años en proyectos y cargos asociados a procesos de analítica y ciencia de datos. Mi perfil contempla desde docencia universitaria y liderazgo de programas de capacitación, hasta ejecución proyectos de base tecnológica. Esta experiencia me ha permitido desarrollar diferentes competencias, como la orientación al valor en toma de decisiones, la conformación y desarrollo de equipos de alto desempeño y la negociación integradora.
 
+## Perfil Profesional
+
+Profesional en estadística con más de 15 años de trayectoria en el diseño y ejecución de procesos de analítica y ciencia de datos. Su formación como magíster en ciencias y especialista en gerencia le permite articular proyectos que integran la investigación científica con la arquitectura de soluciones tecnológicas de alta complejidad. Esta base técnica se traduce en una capacidad probada para la toma de decisiones basada en evidencia, la formación de equipos de alto rendimiento y el liderazgo de programas de capacitación que conectan el rigor académico con las necesidades del entorno corporativo.
+
+El dominio del ecosistema Linux por más de dos décadas constituye el núcleo de su capacidad técnica, permitiéndole desarrollar y desplegar plataformas web y aplicativos de código abierto con una integración robusta en la nube de Google y herramientas de inteligencia artificial. Su enfoque profesional no se limita a la ejecución técnica; utiliza la narrativa de datos y la negociación integradora para garantizar claridad conceptual en la resolución de problemas organizacionales, asegurando que la tecnología sirva como un vehículo de valor real y no solo como una herramienta de procesamiento.
+
+Su producción intelectual y técnica cuenta con el respaldo de publicaciones en revistas indexadas de alto nivel y reconocimientos internacionales en áreas como ética corporativa y sostenibilidad. Ha liderado con éxito proyectos de impacto en sectores diversos como salud, marketing, ciencias sociales y educación, logrando la adjudicación de convocatorias estatales de investigación. Esta combinación de experiencia en campo, publicaciones verificables y solvencia en infraestructura tecnológica lo posiciona como un perfil idóneo para dirigir procesos de transformación digital que demanden un enfoque ético, informado y orientado a resultados tangibles.
 
 ## Habilidades
 
