@@ -59,7 +59,7 @@ file.path(
 ```{r}
 set.seed(123456789)
 
-emo::ji("mail") -> emoji_mail
+"✉️" -> emoji_mail
 
 ```
 

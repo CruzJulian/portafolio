@@ -2,6 +2,30 @@
 title: "Experiencia laboral"
 ---
 
+
+***
+
+
+## Universidad Externado de Colombia
+
+**Investigador de tiempo completo** en la Facultad de Ciencias Sociales y Humanas (FCSH). Diseño metodológico, recolección de la información, estimación de parámetros, tamaños de muestra, diseño de formularios, desarrollo de encuestas, desarrollo de plataformas web, diseños muestrales y análisis cuantitativos para diversos estudios.
+
+ - **Rol:** Docente Investigador
+ - **Desde:** Abril 2023
+ - **Hasta:** Actualmente
+
+**Logros:**
+
+El logro principal es la generación de 7 mvp's de procesos tecnológicos y de investigación en los últimos dos años. Entre ellos, los de mayor impacto son:
+
+ - Diseño de flujos de trabajo para la implementación ética de métodos cualitativos y cuantitativos impulsados por inteligencia artificial. Reducción de 10X en tiempos y costos de implementación metodológica.
+
+ - Automatización del sistema de diseño curricular de la facultad usando herramientas de MS Office 365. Reducción al mínimo de costos de implementación tecnológica.
+ 
+ - Diseño y desarrollo del sistema de indicadores de la facultad. Acompañamiento metodológico en la construcción del plan estratégico y generación de los indicadores de estfuerzo y de resultado correspondientes.
+ 
+ - Diseño y estandarización del programa de acompañamiento metodológico a estudiantes e investigadores. Reducción en la deserción, todos los estudiantes que recibieron acompañamiento en la construcción de su tesis se graduaron.
+
 ***
 
 ## Ministerio de las Tecnologías de la Información y las Comunicaciones
@@ -11,6 +35,13 @@ title: "Experiencia laboral"
  - **Rol:** Jefe de Ciencia de Datos
  - **Desde:** Agosto 2020.
  - **Hasta:** Diciembre 2021.
+ 
+**Logros:**
+
+El logro principal es la generación de mvp's de procesos tecnológicos. Entre ellos:
+
+ - Transcriptor de programas de radio a texto para el proceso de Vigilancia, Inspección y Control de emisoras.
+ 
 
 ***
 
@@ -22,6 +53,13 @@ title: "Experiencia laboral"
  - **Desde:** Agosto 2016.
  - **Hasta:** Mayo 2018.
 
+**Logros:**
+
+El apoyo de distintos proyectos de tipo tecnológico. Entre ellos:
+
+ - La caracterización de los programas de pregrado a nivel nacional con el fin de entender la posición de la Institución y definir objetivos estratégicos.
+ 
+ - La caracterización de todas las asignaturas impartidas con el fin de optimizar el portafolio curricular.
 
 ***
 

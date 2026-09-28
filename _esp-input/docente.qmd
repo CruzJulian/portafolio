@@ -7,19 +7,18 @@ title: "Experiencia docente"
 
 ## Universidad Nacional de Colombia
 
-**Dirección de diplomados en Ciencia de Datos e Inteligencia de Negocios.** Diseño curricular del diplomado, selección de contenidos, docentes y materiales de cada curso. Coordinación de horarios, espacios, softwares y detalles de implementación. 
+**Coordinación de diplomados en Ciencia de Datos e Inteligencia de Negocios.** Diseño curricular del diplomado, selección de contenidos, docentes y materiales de cada curso. Coordinación de horarios, espacios, softwares y detalles de implementación. 
 
 Análisis estratégico del mercado y los canales de comunicación. Implementación de una experiencia de aprendizaje inmersivo centrada en los estudiantes.
 
 Es posible acceder a los detalles de los diplomados:
 
  - [Diplomado en Análisis de datos](http://www.fce.unal.edu.co/media/files/PEC/Formacion_a_escala/2019/III_TRIMESTRE/ficha_analisis_de_datos.pdf){target="_blank"}
- - [Diplomado en Ciencia de datos](http://fce.unal.edu.co/pec/diplomado-en-ciencia-de-datos/){target="_blank"}
- - [Diplomado en Inteligencia de Negocios](http://fce.unal.edu.co/pec/diplomado-en-inteligencia-de-negocios/){target="_blank"}
+ - [Diplomado en Ciencia de datos](https://extension.bogota.unal.edu.co/educacion-continua/ciencia-datos){target="_blank"}
 
 Datos del proyecto:
 
- - Rol: Director
+ - Rol: Coordinador
  - Agosto 2019 - Actualmente
 
 Adicionalmente,
@@ -35,10 +34,10 @@ Adicionalmente,
 
 ## Universidad Externado de Colombia
 
-**Profesor de tiempo completo** en la Facultad de Ciencias Sociales y Humanas (FCSH). Diseño metodológico, recolección de la información, estimación de parámetros, tamaños de muestra, diseño de formularios, desarrollo de encuestas, desarrollo de plataformas web, diseños muestrales y análisis cuantitativos, entre otras, para diversos estudios.
+**Profesor de cátedra** en la Facultad de Administración de Empresas. Diseño y desarrollo curricular de distintos cursos.
 
- - Rol: Docente
- - Abril 2016 - Actualmente
+ - Rol: Docente de cátedra
+ - Abril 2016 - 2022
  
 Adicionalmente,
  
@@ -46,7 +45,6 @@ Adicionalmente,
 
  - _Investigación cuantitativa de mercados_. Maestría en mercadeo. Facultad de administración de empresas. Universidad Externado de Colombia. 2020.
  - _Analítica de negocios_. Maestría en Gerencia Estratégica de Tecnologías de Información. Facultado de Administración de Empresas. Universidad Externado de Colombia. 2020.
- - _Modelaciones complejas_. Maestría en Neurociencia Social. Facultado de Ciencias Sociales y Humanas. Universidad Externado de Colombia. 2025.
 
 
 ***
